@@ -1,6 +1,6 @@
 # i3-pager
 
-A plasmoid for integrating i3 with KDE Plasma.
+A fork of [i3-pager](https://github.com/duvholt/i3-pager) to remove the workspace ID from the panel and set workspaces' icons to the largest displayed container.
 
 ![image](https://user-images.githubusercontent.com/1637715/72685652-676b4e80-3aec-11ea-8173-4c20daaa584e.png)
 
@@ -15,7 +15,7 @@ sudo apt install -y libsigc++-2.0-dev libjsoncpp-dev extra-cmake-modules qml-mod
 + Build and install i3-pager:
 
   ```bash
-  git clone https://github.com/duvholt/i3-pager.git --recurse-submodules
+  git clone https://github.com/MaxIsMyName/i3-pager.git --recurse-submodules
   cd i3-pager
   cmake -DCMAKE_INSTALL_PREFIX=$(kf5-config --prefix) -DCMAKE_BUILD_TYPE=Release -B build
   make -j $(nproc) -C build
@@ -30,6 +30,9 @@ sudo apt install -y libsigc++-2.0-dev libjsoncpp-dev extra-cmake-modules qml-mod
 + Shows workspaces
   + Allows filtering by the current screen
   + Show workspace icons using `Font Awesome`
+  + (Fork) Display name not number
+  + (Fork) For each workspace, add an icon for its largest container.
+
 
 ## Configuration
 
@@ -39,21 +42,9 @@ If you have multiple screens you need to either put i3-pager on both or you need
 
 ### Workspace name and icon
 
-i3-pager supports setting name and icon per workspace using `Font Awesome`.
+This fork was created as I wanted per screen workspace management (eg: mod+1 should take me to the first workspace on my current screen). To do this, I use a script which manipulates the workspace ID, and as a result I did not want to display the ID in the panel. 
 
-```bash
-# <ws number>:<ws name>:<Font Awesome unicode glyph>
-set $ws1 "1:General:�~J�"
-set $ws2 "2:Chat:�~B~F"
-set $ws3 "3:Code:�~D�"
-set $ws4 "4:Terminal:�~D| "
-
-# Use $ws1 etc as you normally would e.g:
-bindsym $mod+1 workspace number $ws1
-bindsym $mod+2 workspace number $ws2
-bindsym $mod+3 workspace number $ws3
-bindsym $mod+4 workspace number $ws4
-```
+I also wanted to have an icon in the panel for the largest container on any workspace, rather than renaming workspaces manually. I could probably have done it differently but this works for now.
 
 Available icons are listed [here](https://fontawesome.com/icons?d=gallery&s=solid&m=free).
 
