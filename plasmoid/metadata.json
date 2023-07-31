@@ -4,9 +4,13 @@
             {
                 "Email": "christian@duvholt.net",
                 "Name": "Christian duvholt"
+            },
+            {
+                "Email": "fainter-sacra-0w@icloud.com",
+                "Name": "Max de Dumast"
             }
         ],
-        "Description": "i3 Pager",
+        "Description": "i3 Pager with automatic icons",
         "Id": "org.kde.I3Pager",
         "License": "GPL",
         "Name": "i3 Pager",

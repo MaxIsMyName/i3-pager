@@ -150,12 +150,12 @@ ColumnLayout {
                     }
                     Label {
                         id : icon
-                        rightPadding : 3
-                        leftPadding : 3
+                        rightPadding : 1
+                        leftPadding : 1
                         bottomPadding : 0
                         height : textRow.height
                         minimumPixelSize : theme.smallestFont.pixelSize
-                        font.pixelSize : Math.min(textRow.height * 0.5, 1.5 * theme.defaultFont.pixelSize)
+                        font.pixelSize : Math.min(textRow.height * 2.0, 1.8 * theme.defaultFont.pixelSize)
                         fontSizeMode : Text.VerticalFit
                         font.family : "Font Awesome 5 Free Solid"
                         font.styleName : "Solid"
@@ -183,9 +183,10 @@ ColumnLayout {
         }
         Item {
             width : modeText.width
-            height : modeText.height
+            height : parent.height
             anchors.verticalCenter : parent.verticalCenter
             visible : i3pager.mode != "default"
+
             Rectangle {
                 color : "#e5c07b"
                 height : parent.height
@@ -196,7 +197,7 @@ ColumnLayout {
                 rightPadding : 10
                 leftPadding : 10
                 minimumPixelSize : theme.smallestFont.pixelSize
-                font.pixelSize : Math.min(textRow.height * 0.5, 1.5 * theme.defaultFont.pixelSize)
+                font.pixelSize : Math.min(parent.height * 0.5, 1.5 * theme.defaultFont.pixelSize)
                 fontSizeMode : Text.VerticalFit
                 font.family : theme.defaultFont.family
                 color : "#333333"
