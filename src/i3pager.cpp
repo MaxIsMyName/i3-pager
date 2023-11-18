@@ -83,11 +83,12 @@ IconConfig::IconConfig()
         {
             { "Firefox-esr", "xclass", false, "" },
             { "kitty", "xclass", false, "" },
-            { "Code", "xclass", false, "" },
+            { "Code", "xclass", false, "" },
             { "^Burp Suite Professional.*", "title", true, "" }, // 
             { "^Microsoft Teams.*", "title", true, ""},
             { "vmware", "instance", false, ""},
             { "Chromium-browser", "xclass", false, ""},
+            { "obsidian", "xclass", false, ""},
         }) {
     qDebug() << "IconConfig::IconConfig " << m_matchingRules.length();
 }

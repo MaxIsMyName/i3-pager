@@ -12,4 +12,9 @@ ConfigModel {
         icon: "monitor"
         source: "configScreens.qml"
     }
+//     ConfigCategory {
+//         name: i18n("Matching Rules")
+//         icon: "preferences-system-windows"
+//         source: "configMatchingRules.qml"
+// }
 }

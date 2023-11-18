@@ -18,6 +18,7 @@ plasma_install_package(plasmoid org.kde.I3Pager)
 ADD_DEFINITIONS(-DQT_NO_KEYWORDS)
 
 SET(BUILD_SHARED_LIBS OFF)
+# set(CMAKE_BUILD_TYPE Debug)
 add_subdirectory(i3ipc++)
 
 target_compile_options(i3ipc++ PRIVATE -fexceptions -fPIC -Wno-deprecated-declarations)

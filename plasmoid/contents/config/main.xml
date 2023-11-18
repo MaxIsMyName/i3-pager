@@ -54,4 +54,19 @@
 			</default>
 		</entry>
 	</group>
+	<!-- <group name="MatchingRules">
+		<entry name="matchingRules" type="QList<MatchingRule>">
+			<default type="QList<MatchingRule>">
+				<!-- Default matching rules -->
+				<item>
+					<IconConfig::MatchingRule>
+						<matchString>Firefox-esr</matchString>
+						<matchProperty>xclass</matchProperty>
+						<useRegex>false</useRegex>
+						<icon></icon>
+					</IconConfig::MatchingRule>
+				</item>
+			</default>
+		</entry>
+	</group> -->
 </kcfg>

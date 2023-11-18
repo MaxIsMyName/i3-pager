@@ -13,6 +13,7 @@ target_compile_options(plasmoidplugin PRIVATE -fexceptions)
 
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -g3")
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -O2 -DQT_NO_DEBUG_OUTPUT")
+# set(CMAKE_BUILD_TYPE Debug)
 
 if (CI_ERRORS)
         target_compile_options(plasmoidplugin PRIVATE -Werror -Wall -Wextra -pedantic-errors)

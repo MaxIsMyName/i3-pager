@@ -1,7 +1,7 @@
 [Desktop Entry]
-Encoding=UTF-8
-Name=i3Pager
 Comment=i3 Pager
+Encoding=UTF-8
+Name=i3 Pager
 ServiceTypes=Plasma/Applet
 Type=Service
 X-KDE-PluginInfo-Author=Christian duvholt
