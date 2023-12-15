@@ -9,7 +9,7 @@ set(plasmoidplugin_SRCS
         workspace.h)
 
 add_library(plasmoidplugin SHARED ${plasmoidplugin_SRCS})
-target_compile_options(plasmoidplugin PRIVATE -fexceptions)
+target_compile_options(plasmoidplugin PRIVATE -std=c++17 -fexceptions)
 
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -g3")
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -O2 -DQT_NO_DEBUG_OUTPUT")

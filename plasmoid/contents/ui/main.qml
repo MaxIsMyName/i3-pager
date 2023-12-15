@@ -90,6 +90,14 @@ ColumnLayout {
                     }
                     var indexOfScreen = plasmoid.configuration.screenNameList.indexOf(modelData.output);
                     var screenColor = plasmoid.configuration.screenColorList[indexOfScreen];
+                    // Check if screenColor is undefined or null, then return "transparent"
+                    if (screenColor === undefined || screenColor === null) {
+                        return "transparent";
+                    }
+
+                    if (screenColor != "[undefined]") {
+                      screenColor = "transparent";
+                    }
                     return screenColor;
                 }
                 function getRadius() {

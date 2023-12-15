@@ -82,6 +82,7 @@ IconConfig::IconConfig()
     : m_matchingRules(
         {
             { "Firefox-esr", "xclass", false, "" },
+            { ".*- NVIM$", "title", true, "" },
             { "kitty", "xclass", false, "" },
             { "Code", "xclass", false, "" },
             { "^Burp Suite Professional.*", "title", true, "" }, // 
@@ -92,71 +93,6 @@ IconConfig::IconConfig()
         }) {
     qDebug() << "IconConfig::IconConfig " << m_matchingRules.length();
 }
-
-// void IconConfig::addMatchingRule(const QString& matchString, const QString& matchProperty, const QString& icon, bool useRegex) {
-//     matchingRules.append({matchString, matchProperty, useRegex, icon});
-//     saveMatchingRules();
-// }
-
-// void IconConfig::loadMatchingRules()
-// {
-//     // Create a QSettings object to read the matching rules
-//     QSettings settings;
-
-//     // Begin the group for the matching rules
-//     settings.beginGroup("MatchingRules");
-
-//     // Get the number of rules stored in the settings
-//     int numRules = settings.childGroups().size();
-
-//     // Clear the existing matchingRules list
-//     m_matchingRules.clear();
-
-//     // Load each rule from the settings and add it to matchingRules
-//     for (int i = 0; i < numRules; ++i)
-//     {
-//         const QString ruleGroup = QString("Rule%1").arg(i);
-//         settings.beginGroup(ruleGroup);
-//         MatchingRule rule;
-//         rule.matchString = settings.value("MatchString").toString();
-//         rule.matchProperty = settings.value("MatchProperty").toString();
-//         rule.useRegex = settings.value("UseRegex").toBool();
-//         rule.icon = settings.value("Icon").toString();
-//         m_matchingRules.append(rule);
-//         settings.endGroup();
-//     }
-
-//     // End the group for the matching rules
-//     settings.endGroup();
-
-//     // Emit signal to notify that matchingRules has changed
-//     // Q_EMIT matchingRulesChanged();
-// }
-
-// void IconConfig::saveMatchingRules() const
-// {
-//     QSettings settings;
-//     settings.beginGroup("MatchingRules/Defaults");
-
-//     // Save default matching rules
-//     settings.setValue("count", matchingRules.count());
-//     for (int i = 0; i < matchingRules.count(); ++i) {
-//         const MatchingRule& rule = matchingRules.at(i);
-//         settings.beginGroup(QString::number(i));
-//         settings.setValue("matchString", rule.matchString);
-//         settings.setValue("matchProperty", rule.matchProperty);
-//         settings.setValue("useRegex", rule.useRegex);
-//         settings.setValue("icon", rule.icon);
-//         settings.endGroup();
-//     }
-
-//     settings.endGroup();
-//     settings.sync();
-// }
-
-//  const QList<IconConfig::MatchingRule>& getMatchingRules() const {
-//     return matchingRules;
-// }
 
 
 QString IconConfig::getIcon(const i3ipc::container_t& container) const {

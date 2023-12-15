@@ -1,0 +1,1547 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/maxd-admin/.local/share/i3-pager/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$(VERBOSE).SILENT	build/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE).SILENT	build/i3ipc++/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE).SILENT	build/src/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	build/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+$(VERBOSE)MAKESILENT	build/i3ipc++/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+$(VERBOSE)MAKESILENT	build/src/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	build/Makefile	/^% : %,v$/;"	t
+%	build/Makefile	/^% : RCS\/%$/;"	t
+%	build/Makefile	/^% : RCS\/%,v$/;"	t
+%	build/Makefile	/^% : SCCS\/s.%$/;"	t
+%	build/Makefile	/^% : s.%$/;"	t
+%	build/i3ipc++/Makefile	/^% : %,v$/;"	t
+%	build/i3ipc++/Makefile	/^% : RCS\/%$/;"	t
+%	build/i3ipc++/Makefile	/^% : RCS\/%,v$/;"	t
+%	build/i3ipc++/Makefile	/^% : SCCS\/s.%$/;"	t
+%	build/i3ipc++/Makefile	/^% : s.%$/;"	t
+%	build/src/Makefile	/^% : %,v$/;"	t
+%	build/src/Makefile	/^% : RCS\/%$/;"	t
+%	build/src/Makefile	/^% : RCS\/%,v$/;"	t
+%	build/src/Makefile	/^% : SCCS\/s.%$/;"	t
+%	build/src/Makefile	/^% : s.%$/;"	t
+ABI_ID	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define ABI_ID /;"	d
+ABI_ID	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define ABI_ID /;"	d
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+AUSS_HPP	i3ipc++/3rd/auss/include/auss.hpp	/^#define AUSS_HPP$/;"	d
+AUSS_OWN_NAMESPACE_NAME	i3ipc++/3rd/auss/include/auss.hpp	/^	#define AUSS_OWN_NAMESPACE_NAME /;"	d
+AUSS_OWN_NAMESPACE_NAME	i3ipc++/3rd/auss/include/auss.hpp	/^namespace AUSS_OWN_NAMESPACE_NAME {$/;"	n
+AutoStringStream	i3ipc++/3rd/auss/include/auss.hpp	/^	AutoStringStream() : m_stream() {}$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream
+AutoStringStream	i3ipc++/3rd/auss/include/auss.hpp	/^class AutoStringStream {$/;"	c	namespace:AUSS_OWN_NAMESPACE_NAME
+BAR_CONFIG	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	BAR_CONFIG = 6,$/;"	e	enum:i3ipc::ReplyType
+BOTTOM	i3ipc++/include/i3ipc++/ipc.hpp	/^	BOTTOM = 'b',$/;"	e	enum:i3ipc::Position
+BarMode	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class BarMode : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+BorderStyle	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class BorderStyle : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+CLOSE	i3ipc++/include/i3ipc++/ipc.hpp	/^	CLOSE = 'c', \/\/\/< Window closed$/;"	e	enum:i3ipc::WindowEventType
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager\/build$/;"	m
+CMAKE_BINARY_DIR	build/i3ipc++/Makefile	/^CMAKE_BINARY_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/i3ipc++/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager$/;"	m
+CMAKE_SOURCE_DIR	build/i3ipc++/Makefile	/^CMAKE_SOURCE_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager$/;"	m
+CMAKE_SOURCE_DIR	build/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/maxd-admin\/.local\/share\/i3-pager$/;"	m
+COMMAND	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	COMMAND = 0,$/;"	e	enum:i3ipc::ClientMessageType
+COMMAND	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	COMMAND = 0,$/;"	e	enum:i3ipc::ReplyType
+COMPILER_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+C_VERSION	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION /;"	d	file:
+C_VERSION	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION$/;"	d	file:
+C_VERSION	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define C_VERSION /;"	d	file:
+ClientMessageType	i3ipc++/include/i3ipc++/ipc-util.hpp	/^enum class ClientMessageType : uint32_t {$/;"	g	namespace:i3ipc	typeref:typename:uint32_t
+ContainerLayout	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class ContainerLayout : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+DEC	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DOCK	i3ipc++/include/i3ipc++/ipc.hpp	/^	DOCK = 'd', \/\/\/< The bar sets the dock window type$/;"	e	enum:i3ipc::BarMode
+DOCKAREA	i3ipc++/include/i3ipc++/ipc.hpp	/^	DOCKAREA = 'd',$/;"	e	enum:i3ipc::ContainerLayout
+EMPTY	i3ipc++/include/i3ipc++/ipc.hpp	/^	EMPTY = 'e', \/\/\/< Became empty$/;"	e	enum:i3ipc::WorkspaceEventType
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/i3ipc++/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/src/Makefile	/^EQUALS = =$/;"	m
+ET_BARCONFIG_UPDATE	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_BARCONFIG_UPDATE = (1 << 4), \/\/\/< Bar config update event @attention Yet is not implement/;"	e	enum:i3ipc::EventType
+ET_BINDING	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_BINDING = (1 << 5), \/\/\/< Binding event$/;"	e	enum:i3ipc::EventType
+ET_MODE	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_MODE = (1 << 2), \/\/\/< Output mode event$/;"	e	enum:i3ipc::EventType
+ET_OUTPUT	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_OUTPUT = (1 << 1), \/\/\/< Output event$/;"	e	enum:i3ipc::EventType
+ET_WINDOW	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_WINDOW = (1 << 3), \/\/\/< Window event$/;"	e	enum:i3ipc::EventType
+ET_WORKSPACE	i3ipc++/include/i3ipc++/ipc.hpp	/^	ET_WORKSPACE = (1 << 0), \/\/\/< Workspace event$/;"	e	enum:i3ipc::EventType
+EventType	i3ipc++/include/i3ipc++/ipc.hpp	/^enum EventType {$/;"	g	namespace:i3ipc
+FLOATING	i3ipc++/include/i3ipc++/ipc.hpp	/^	FLOATING = '_', \/\/\/< Window toggled floating mode$/;"	e	enum:i3ipc::WindowEventType
+FOCUS	i3ipc++/include/i3ipc++/ipc.hpp	/^	FOCUS = 'f', \/\/\/< Focused$/;"	e	enum:i3ipc::WorkspaceEventType
+FOCUS	i3ipc++/include/i3ipc++/ipc.hpp	/^	FOCUS = 'f', \/\/\/< Window got focus$/;"	e	enum:i3ipc::WindowEventType
+FULLSCREEN_MODE	i3ipc++/include/i3ipc++/ipc.hpp	/^	FULLSCREEN_MODE = 'F', \/\/\/< Window toggled to fullscreen mode$/;"	e	enum:i3ipc::WindowEventType
+GET_BAR_CONFIG	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_BAR_CONFIG = 6,$/;"	e	enum:i3ipc::ClientMessageType
+GET_MARKS	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_MARKS = 5,$/;"	e	enum:i3ipc::ClientMessageType
+GET_OUTPUTS	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_OUTPUTS = 3,$/;"	e	enum:i3ipc::ClientMessageType
+GET_TREE	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_TREE = 4,$/;"	e	enum:i3ipc::ClientMessageType
+GET_VERSION	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_VERSION = 7,$/;"	e	enum:i3ipc::ClientMessageType
+GET_WORKSPACES	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	GET_WORKSPACES = 1,$/;"	e	enum:i3ipc::ClientMessageType
+HEX	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+HIDE	i3ipc++/include/i3ipc++/ipc.hpp	/^	HIDE = 'h', \/\/\/< The bar does not show unless a specific key is pressed$/;"	e	enum:i3ipc::BarMode
+I3IPC_BUILD_DATETIME	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define I3IPC_BUILD_DATETIME /;"	d
+I3IPC_DEBUG	i3ipc++/include/i3ipc++/log.hpp	/^#define I3IPC_DEBUG(/;"	d
+I3IPC_ERR	i3ipc++/include/i3ipc++/log.hpp	/^#define I3IPC_ERR(/;"	d
+I3IPC_INFO	i3ipc++/include/i3ipc++/log.hpp	/^#define I3IPC_INFO(/;"	d
+I3IPC_LOG	i3ipc++/include/i3ipc++/log.hpp	/^#define I3IPC_LOG(/;"	d
+I3IPC_VERSION_MAJOR	i3ipc++/src/ipc.cpp	/^#define I3IPC_VERSION_MAJOR /;"	d	file:
+I3IPC_VERSION_MINOR	i3ipc++/src/ipc.cpp	/^#define I3IPC_VERSION_MINOR /;"	d	file:
+I3IPC_VERSION_PATCH	i3ipc++/src/ipc.cpp	/^#define I3IPC_VERSION_PATCH /;"	d	file:
+I3IPC_WARN	i3ipc++/include/i3ipc++/log.hpp	/^#define I3IPC_WARN(/;"	d
+I3LISTENER_H	src/i3listener.h	/^#define I3LISTENER_H$/;"	d
+I3ListenerThread	src/i3listener.cpp	/^I3ListenerThread::I3ListenerThread(QObject* parent)$/;"	f	class:I3ListenerThread
+I3ListenerThread	src/i3listener.h	/^class I3ListenerThread : public QThread {$/;"	c
+I3PAGER_PLASMOID_H	src/i3pager.h	/^#define I3PAGER_PLASMOID_H$/;"	d
+I3PAGER_PLASMOID_PLUGIN_H	src/plugin.h	/^#define I3PAGER_PLASMOID_PLUGIN_H$/;"	d
+I3Pager	src/i3pager.cpp	/^I3Pager::I3Pager(QObject* parent)$/;"	f	class:I3Pager
+I3Pager	src/i3pager.h	/^class I3Pager : public QObject {$/;"	c
+ID_VOID_MAIN	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+INIT	i3ipc++/include/i3ipc++/ipc.hpp	/^	INIT = 'i', \/\/\/< Initialized$/;"	e	enum:i3ipc::WorkspaceEventType
+IPC_JSON_ASSERT_TYPE	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_ASSERT_TYPE(/;"	d	file:
+IPC_JSON_ASSERT_TYPE_ARRAY	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_ASSERT_TYPE_ARRAY(/;"	d	file:
+IPC_JSON_ASSERT_TYPE_BOOL	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_ASSERT_TYPE_BOOL(/;"	d	file:
+IPC_JSON_ASSERT_TYPE_INT	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_ASSERT_TYPE_INT(/;"	d	file:
+IPC_JSON_ASSERT_TYPE_OBJECT	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_ASSERT_TYPE_OBJECT(/;"	d	file:
+IPC_JSON_READ	i3ipc++/src/ipc.cpp	/^#define IPC_JSON_READ(/;"	d	file:
+IconConfig	src/i3pager.cpp	/^I3Pager::IconConfig::IconConfig() {$/;"	f	class:I3Pager::IconConfig
+IconConfig	src/i3pager.h	/^    class IconConfig {$/;"	c	class:I3Pager
+InputType	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class InputType : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+KCOREADDONS_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define KCOREADDONS_LIB /;"	d
+KEYBOARD	i3ipc++/include/i3ipc++/ipc.hpp	/^	KEYBOARD = 'k',$/;"	e	enum:i3ipc::InputType
+KF5Config_QCH	build/Makefile	/^KF5Config_QCH: cmake_check_build_system$/;"	t
+KF5Config_QCH/fast	build/Makefile	/^KF5Config_QCH\/fast:$/;"	t
+KF5CoreAddons_QCH	build/Makefile	/^KF5CoreAddons_QCH: cmake_check_build_system$/;"	t
+KF5CoreAddons_QCH/fast	build/Makefile	/^KF5CoreAddons_QCH\/fast:$/;"	t
+KF5Package_QCH	build/Makefile	/^KF5Package_QCH: cmake_check_build_system$/;"	t
+KF5Package_QCH/fast	build/Makefile	/^KF5Package_QCH\/fast:$/;"	t
+KF5Plasma_QCH	build/Makefile	/^KF5Plasma_QCH: cmake_check_build_system$/;"	t
+KF5Plasma_QCH/fast	build/Makefile	/^KF5Plasma_QCH\/fast:$/;"	t
+KF5Service_QCH	build/Makefile	/^KF5Service_QCH: cmake_check_build_system$/;"	t
+KF5Service_QCH/fast	build/Makefile	/^KF5Service_QCH\/fast:$/;"	t
+KF5WindowSystem_QCH	build/Makefile	/^KF5WindowSystem_QCH: cmake_check_build_system$/;"	t
+KF5WindowSystem_QCH/fast	build/Makefile	/^KF5WindowSystem_QCH\/fast:$/;"	t
+MARKS	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	MARKS = 5,$/;"	e	enum:i3ipc::ReplyType
+MOUSE	i3ipc++/include/i3ipc++/ipc.hpp	/^	MOUSE = 'm',$/;"	e	enum:i3ipc::InputType
+MOVE	i3ipc++/include/i3ipc++/ipc.hpp	/^	MOVE = 'M', \/\/\/< Window moved$/;"	e	enum:i3ipc::WindowEventType
+NEW	i3ipc++/include/i3ipc++/ipc.hpp	/^	NEW = 'n', \/\/\/< Window created$/;"	e	enum:i3ipc::WindowEventType
+NONE	i3ipc++/include/i3ipc++/ipc.hpp	/^	NONE = 'N',$/;"	e	enum:i3ipc::BorderStyle
+NORMAL	i3ipc++/include/i3ipc++/ipc.hpp	/^	NORMAL = 'n',$/;"	e	enum:i3ipc::BorderStyle
+ONE_PIXEL	i3ipc++/include/i3ipc++/ipc.hpp	/^	ONE_PIXEL = '1',$/;"	e	enum:i3ipc::BorderStyle
+OUTPUT	i3ipc++/include/i3ipc++/ipc.hpp	/^	OUTPUT = 'o',$/;"	e	enum:i3ipc::ContainerLayout
+OUTPUTS	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	OUTPUTS = 3,$/;"	e	enum:i3ipc::ReplyType
+PIXEL	i3ipc++/include/i3ipc++/ipc.hpp	/^	PIXEL = 'P',$/;"	e	enum:i3ipc::BorderStyle
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+Plugin	src/plugin.h	/^class Plugin : public QQmlExtensionPlugin {$/;"	c
+Position	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class Position : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+QT_CORE_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_CORE_LIB /;"	d
+QT_GUI_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_GUI_LIB /;"	d
+QT_MOC_LITERAL	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^#define QT_MOC_LITERAL(/;"	d	file:
+QT_MOC_LITERAL	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^#define QT_MOC_LITERAL(/;"	d	file:
+QT_MOC_LITERAL	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^#define QT_MOC_LITERAL(/;"	d	file:
+QT_MOC_LITERAL	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^#define QT_MOC_LITERAL(/;"	d	file:
+QT_NETWORK_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_NETWORK_LIB /;"	d
+QT_NO_KEYWORDS	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define QT_NO_KEYWORDS /;"	d
+QT_NO_KEYWORDS	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_NO_KEYWORDS /;"	d
+QT_QMLMODELS_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_QMLMODELS_LIB /;"	d
+QT_QML_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_QML_LIB /;"	d
+QT_QUICK_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_QUICK_LIB /;"	d
+QT_WIDGETS_LIB	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define QT_WIDGETS_LIB /;"	d
+RELOAD	i3ipc++/include/i3ipc++/ipc.hpp	/^	RELOAD = 'l', \/\/\/< Reloaded$/;"	e	enum:i3ipc::WorkspaceEventType
+RENAME	i3ipc++/include/i3ipc++/ipc.hpp	/^	RENAME = 'r', \/\/\/< Renamed$/;"	e	enum:i3ipc::WorkspaceEventType
+RESTORED	i3ipc++/include/i3ipc++/ipc.hpp	/^	RESTORED = 's', \/\/\/< Restored$/;"	e	enum:i3ipc::WorkspaceEventType
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/i3ipc++/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/src/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+ReplyType	i3ipc++/include/i3ipc++/ipc-util.hpp	/^enum class ReplyType : uint32_t {$/;"	g	namespace:i3ipc	typeref:typename:uint32_t
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/i3ipc++/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIZEOF_DPTR	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define SIZEOF_DPTR /;"	d
+SIZEOF_DPTR	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define SIZEOF_DPTR /;"	d
+SPLIT_H	i3ipc++/include/i3ipc++/ipc.hpp	/^	SPLIT_H = 'h',$/;"	e	enum:i3ipc::ContainerLayout
+SPLIT_V	i3ipc++/include/i3ipc++/ipc.hpp	/^	SPLIT_V = 'v',$/;"	e	enum:i3ipc::ContainerLayout
+STACKED	i3ipc++/include/i3ipc++/ipc.hpp	/^	STACKED = 's',$/;"	e	enum:i3ipc::ContainerLayout
+STRINGIFY	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+SUBSCRIBE	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	SUBSCRIBE = 2,$/;"	e	enum:i3ipc::ClientMessageType
+SUBSCRIBE	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	SUBSCRIBE = 2,$/;"	e	enum:i3ipc::ReplyType
+Size	src/i3pager.h	/^    struct Size {$/;"	s	class:I3Pager
+TABBED	i3ipc++/include/i3ipc++/ipc.hpp	/^	TABBED = 't',$/;"	e	enum:i3ipc::ContainerLayout
+TITLE	i3ipc++/include/i3ipc++/ipc.hpp	/^	TITLE = 't', \/\/\/< Title of window has been changed$/;"	e	enum:i3ipc::WindowEventType
+TOP	i3ipc++/include/i3ipc++/ipc.hpp	/^	TOP = 't',$/;"	e	enum:i3ipc::Position
+TREE	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	TREE = 4,$/;"	e	enum:i3ipc::ReplyType
+UNKNOWN	i3ipc++/include/i3ipc++/ipc.hpp	/^	UNKNOWN = '?', \/\/< If got an unknown border style in reply$/;"	e	enum:i3ipc::BorderStyle
+UNKNOWN	i3ipc++/include/i3ipc++/ipc.hpp	/^	UNKNOWN = '?', \/\/< If got an unknown border style in reply$/;"	e	enum:i3ipc::ContainerLayout
+UNKNOWN	i3ipc++/include/i3ipc++/ipc.hpp	/^	UNKNOWN = '?', \/\/< If got an unknown input_type in binding_event$/;"	e	enum:i3ipc::InputType
+UNKNOWN	i3ipc++/include/i3ipc++/ipc.hpp	/^	UNKNOWN = '?',$/;"	e	enum:i3ipc::BarMode
+UNKNOWN	i3ipc++/include/i3ipc++/ipc.hpp	/^	UNKNOWN = '?',$/;"	e	enum:i3ipc::Position
+URGENT	i3ipc++/include/i3ipc++/ipc.hpp	/^	URGENT = 'u', \/\/\/< Became urgent$/;"	e	enum:i3ipc::WorkspaceEventType
+URGENT	i3ipc++/include/i3ipc++/ipc.hpp	/^	URGENT = 'u', \/\/\/< Window became urgent$/;"	e	enum:i3ipc::WindowEventType
+VERSION	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	VERSION = 7,$/;"	e	enum:i3ipc::ReplyType
+WORKSPACES	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	WORKSPACES = 1,$/;"	e	enum:i3ipc::ReplyType
+WORKSPACE_H	src/workspace.h	/^#define WORKSPACE_H$/;"	d
+WindowEventType	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class WindowEventType : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+Workspace	src/workspace.h	/^class Workspace {$/;"	c
+WorkspaceEventType	i3ipc++/include/i3ipc++/ipc.hpp	/^enum class WorkspaceEventType : char {$/;"	g	namespace:i3ipc	typeref:typename:char
+_GNU_SOURCE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define _GNU_SOURCE /;"	d
+_GNU_SOURCE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define _GNU_SOURCE /;"	d
+_LARGEFILE64_SOURCE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define _LARGEFILE64_SOURCE /;"	d
+_LARGEFILE64_SOURCE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define _LARGEFILE64_SOURCE /;"	d
+_LP64	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define _LP64 /;"	d
+_LP64	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define _LP64 /;"	d
+_STDC_PREDEF_H	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define _STDC_PREDEF_H /;"	d
+_STDC_PREDEF_H	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define _STDC_PREDEF_H /;"	d
+__ATOMIC_ACQUIRE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_ACQUIRE /;"	d
+__ATOMIC_ACQUIRE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_ACQUIRE /;"	d
+__ATOMIC_ACQ_REL	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_ACQ_REL /;"	d
+__ATOMIC_ACQ_REL	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_ACQ_REL /;"	d
+__ATOMIC_CONSUME	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_CONSUME /;"	d
+__ATOMIC_CONSUME	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_CONSUME /;"	d
+__ATOMIC_HLE_ACQUIRE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_HLE_ACQUIRE /;"	d
+__ATOMIC_HLE_ACQUIRE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_HLE_ACQUIRE /;"	d
+__ATOMIC_HLE_RELEASE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_HLE_RELEASE /;"	d
+__ATOMIC_HLE_RELEASE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_HLE_RELEASE /;"	d
+__ATOMIC_RELAXED	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_RELAXED /;"	d
+__ATOMIC_RELAXED	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_RELAXED /;"	d
+__ATOMIC_RELEASE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_RELEASE /;"	d
+__ATOMIC_RELEASE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_RELEASE /;"	d
+__ATOMIC_SEQ_CST	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ATOMIC_SEQ_CST /;"	d
+__ATOMIC_SEQ_CST	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ATOMIC_SEQ_CST /;"	d
+__BIGGEST_ALIGNMENT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __BIGGEST_ALIGNMENT__ /;"	d
+__BIGGEST_ALIGNMENT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __BIGGEST_ALIGNMENT__ /;"	d
+__BYTE_ORDER__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __BYTE_ORDER__ /;"	d
+__BYTE_ORDER__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __BYTE_ORDER__ /;"	d
+__CHAR16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __CHAR16_TYPE__ /;"	d
+__CHAR16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __CHAR16_TYPE__ /;"	d
+__CHAR32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __CHAR32_TYPE__ /;"	d
+__CHAR32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __CHAR32_TYPE__ /;"	d
+__CHAR_BIT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __CHAR_BIT__ /;"	d
+__CHAR_BIT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __CHAR_BIT__ /;"	d
+__DBL_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_DECIMAL_DIG__ /;"	d
+__DBL_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_DECIMAL_DIG__ /;"	d
+__DBL_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_DENORM_MIN__ /;"	d
+__DBL_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_DENORM_MIN__ /;"	d
+__DBL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_DIG__ /;"	d
+__DBL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_DIG__ /;"	d
+__DBL_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_EPSILON__ /;"	d
+__DBL_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_EPSILON__ /;"	d
+__DBL_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_HAS_DENORM__ /;"	d
+__DBL_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_HAS_DENORM__ /;"	d
+__DBL_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_HAS_INFINITY__ /;"	d
+__DBL_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_HAS_INFINITY__ /;"	d
+__DBL_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_HAS_QUIET_NAN__ /;"	d
+__DBL_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_HAS_QUIET_NAN__ /;"	d
+__DBL_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_IS_IEC_60559__ /;"	d
+__DBL_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_IS_IEC_60559__ /;"	d
+__DBL_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MANT_DIG__ /;"	d
+__DBL_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MANT_DIG__ /;"	d
+__DBL_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MAX_10_EXP__ /;"	d
+__DBL_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MAX_10_EXP__ /;"	d
+__DBL_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MAX_EXP__ /;"	d
+__DBL_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MAX_EXP__ /;"	d
+__DBL_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MAX__ /;"	d
+__DBL_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MAX__ /;"	d
+__DBL_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MIN_10_EXP__ /;"	d
+__DBL_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MIN_10_EXP__ /;"	d
+__DBL_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MIN_EXP__ /;"	d
+__DBL_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MIN_EXP__ /;"	d
+__DBL_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_MIN__ /;"	d
+__DBL_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_MIN__ /;"	d
+__DBL_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DBL_NORM_MAX__ /;"	d
+__DBL_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DBL_NORM_MAX__ /;"	d
+__DEC128_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_EPSILON__ /;"	d
+__DEC128_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_EPSILON__ /;"	d
+__DEC128_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_MANT_DIG__ /;"	d
+__DEC128_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_MANT_DIG__ /;"	d
+__DEC128_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_MAX_EXP__ /;"	d
+__DEC128_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_MAX_EXP__ /;"	d
+__DEC128_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_MAX__ /;"	d
+__DEC128_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_MAX__ /;"	d
+__DEC128_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_MIN_EXP__ /;"	d
+__DEC128_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_MIN_EXP__ /;"	d
+__DEC128_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_MIN__ /;"	d
+__DEC128_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_MIN__ /;"	d
+__DEC128_SUBNORMAL_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC128_SUBNORMAL_MIN__ /;"	d
+__DEC128_SUBNORMAL_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC128_SUBNORMAL_MIN__ /;"	d
+__DEC32_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_EPSILON__ /;"	d
+__DEC32_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_EPSILON__ /;"	d
+__DEC32_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_MANT_DIG__ /;"	d
+__DEC32_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_MANT_DIG__ /;"	d
+__DEC32_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_MAX_EXP__ /;"	d
+__DEC32_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_MAX_EXP__ /;"	d
+__DEC32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_MAX__ /;"	d
+__DEC32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_MAX__ /;"	d
+__DEC32_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_MIN_EXP__ /;"	d
+__DEC32_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_MIN_EXP__ /;"	d
+__DEC32_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_MIN__ /;"	d
+__DEC32_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_MIN__ /;"	d
+__DEC32_SUBNORMAL_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC32_SUBNORMAL_MIN__ /;"	d
+__DEC32_SUBNORMAL_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC32_SUBNORMAL_MIN__ /;"	d
+__DEC64_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_EPSILON__ /;"	d
+__DEC64_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_EPSILON__ /;"	d
+__DEC64_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_MANT_DIG__ /;"	d
+__DEC64_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_MANT_DIG__ /;"	d
+__DEC64_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_MAX_EXP__ /;"	d
+__DEC64_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_MAX_EXP__ /;"	d
+__DEC64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_MAX__ /;"	d
+__DEC64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_MAX__ /;"	d
+__DEC64_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_MIN_EXP__ /;"	d
+__DEC64_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_MIN_EXP__ /;"	d
+__DEC64_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_MIN__ /;"	d
+__DEC64_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_MIN__ /;"	d
+__DEC64_SUBNORMAL_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC64_SUBNORMAL_MIN__ /;"	d
+__DEC64_SUBNORMAL_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC64_SUBNORMAL_MIN__ /;"	d
+__DECIMAL_BID_FORMAT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DECIMAL_BID_FORMAT__ /;"	d
+__DECIMAL_BID_FORMAT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DECIMAL_BID_FORMAT__ /;"	d
+__DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DECIMAL_DIG__ /;"	d
+__DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DECIMAL_DIG__ /;"	d
+__DEC_EVAL_METHOD__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEC_EVAL_METHOD__ /;"	d
+__DEC_EVAL_METHOD__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEC_EVAL_METHOD__ /;"	d
+__DEPRECATED	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __DEPRECATED /;"	d
+__DEPRECATED	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __DEPRECATED /;"	d
+__ELF__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ELF__ /;"	d
+__ELF__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ELF__ /;"	d
+__EXCEPTIONS	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __EXCEPTIONS /;"	d
+__EXCEPTIONS	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __EXCEPTIONS /;"	d
+__FINITE_MATH_ONLY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FINITE_MATH_ONLY__ /;"	d
+__FINITE_MATH_ONLY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FINITE_MATH_ONLY__ /;"	d
+__FLOAT_WORD_ORDER__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLOAT_WORD_ORDER__ /;"	d
+__FLOAT_WORD_ORDER__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLOAT_WORD_ORDER__ /;"	d
+__FLT128_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_DECIMAL_DIG__ /;"	d
+__FLT128_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_DECIMAL_DIG__ /;"	d
+__FLT128_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_DENORM_MIN__ /;"	d
+__FLT128_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_DENORM_MIN__ /;"	d
+__FLT128_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_DIG__ /;"	d
+__FLT128_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_DIG__ /;"	d
+__FLT128_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_EPSILON__ /;"	d
+__FLT128_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_EPSILON__ /;"	d
+__FLT128_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_HAS_DENORM__ /;"	d
+__FLT128_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_HAS_DENORM__ /;"	d
+__FLT128_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_HAS_INFINITY__ /;"	d
+__FLT128_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_HAS_INFINITY__ /;"	d
+__FLT128_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_HAS_QUIET_NAN__ /;"	d
+__FLT128_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_HAS_QUIET_NAN__ /;"	d
+__FLT128_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_IS_IEC_60559__ /;"	d
+__FLT128_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_IS_IEC_60559__ /;"	d
+__FLT128_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MANT_DIG__ /;"	d
+__FLT128_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MANT_DIG__ /;"	d
+__FLT128_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MAX_10_EXP__ /;"	d
+__FLT128_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MAX_10_EXP__ /;"	d
+__FLT128_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MAX_EXP__ /;"	d
+__FLT128_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MAX_EXP__ /;"	d
+__FLT128_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MAX__ /;"	d
+__FLT128_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MAX__ /;"	d
+__FLT128_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MIN_10_EXP__ /;"	d
+__FLT128_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MIN_10_EXP__ /;"	d
+__FLT128_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MIN_EXP__ /;"	d
+__FLT128_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MIN_EXP__ /;"	d
+__FLT128_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_MIN__ /;"	d
+__FLT128_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_MIN__ /;"	d
+__FLT128_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT128_NORM_MAX__ /;"	d
+__FLT128_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT128_NORM_MAX__ /;"	d
+__FLT32X_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_DECIMAL_DIG__ /;"	d
+__FLT32X_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_DECIMAL_DIG__ /;"	d
+__FLT32X_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_DENORM_MIN__ /;"	d
+__FLT32X_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_DENORM_MIN__ /;"	d
+__FLT32X_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_DIG__ /;"	d
+__FLT32X_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_DIG__ /;"	d
+__FLT32X_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_EPSILON__ /;"	d
+__FLT32X_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_EPSILON__ /;"	d
+__FLT32X_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_HAS_DENORM__ /;"	d
+__FLT32X_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_HAS_DENORM__ /;"	d
+__FLT32X_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_HAS_INFINITY__ /;"	d
+__FLT32X_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_HAS_INFINITY__ /;"	d
+__FLT32X_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_HAS_QUIET_NAN__ /;"	d
+__FLT32X_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_HAS_QUIET_NAN__ /;"	d
+__FLT32X_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_IS_IEC_60559__ /;"	d
+__FLT32X_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_IS_IEC_60559__ /;"	d
+__FLT32X_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MANT_DIG__ /;"	d
+__FLT32X_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MANT_DIG__ /;"	d
+__FLT32X_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MAX_10_EXP__ /;"	d
+__FLT32X_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MAX_10_EXP__ /;"	d
+__FLT32X_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MAX_EXP__ /;"	d
+__FLT32X_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MAX_EXP__ /;"	d
+__FLT32X_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MAX__ /;"	d
+__FLT32X_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MAX__ /;"	d
+__FLT32X_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MIN_10_EXP__ /;"	d
+__FLT32X_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MIN_10_EXP__ /;"	d
+__FLT32X_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MIN_EXP__ /;"	d
+__FLT32X_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MIN_EXP__ /;"	d
+__FLT32X_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_MIN__ /;"	d
+__FLT32X_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_MIN__ /;"	d
+__FLT32X_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32X_NORM_MAX__ /;"	d
+__FLT32X_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32X_NORM_MAX__ /;"	d
+__FLT32_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_DECIMAL_DIG__ /;"	d
+__FLT32_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_DECIMAL_DIG__ /;"	d
+__FLT32_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_DENORM_MIN__ /;"	d
+__FLT32_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_DENORM_MIN__ /;"	d
+__FLT32_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_DIG__ /;"	d
+__FLT32_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_DIG__ /;"	d
+__FLT32_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_EPSILON__ /;"	d
+__FLT32_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_EPSILON__ /;"	d
+__FLT32_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_HAS_DENORM__ /;"	d
+__FLT32_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_HAS_DENORM__ /;"	d
+__FLT32_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_HAS_INFINITY__ /;"	d
+__FLT32_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_HAS_INFINITY__ /;"	d
+__FLT32_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_HAS_QUIET_NAN__ /;"	d
+__FLT32_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_HAS_QUIET_NAN__ /;"	d
+__FLT32_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_IS_IEC_60559__ /;"	d
+__FLT32_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_IS_IEC_60559__ /;"	d
+__FLT32_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MANT_DIG__ /;"	d
+__FLT32_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MANT_DIG__ /;"	d
+__FLT32_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MAX_10_EXP__ /;"	d
+__FLT32_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MAX_10_EXP__ /;"	d
+__FLT32_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MAX_EXP__ /;"	d
+__FLT32_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MAX_EXP__ /;"	d
+__FLT32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MAX__ /;"	d
+__FLT32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MAX__ /;"	d
+__FLT32_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MIN_10_EXP__ /;"	d
+__FLT32_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MIN_10_EXP__ /;"	d
+__FLT32_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MIN_EXP__ /;"	d
+__FLT32_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MIN_EXP__ /;"	d
+__FLT32_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_MIN__ /;"	d
+__FLT32_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_MIN__ /;"	d
+__FLT32_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT32_NORM_MAX__ /;"	d
+__FLT32_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT32_NORM_MAX__ /;"	d
+__FLT64X_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_DECIMAL_DIG__ /;"	d
+__FLT64X_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_DECIMAL_DIG__ /;"	d
+__FLT64X_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_DENORM_MIN__ /;"	d
+__FLT64X_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_DENORM_MIN__ /;"	d
+__FLT64X_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_DIG__ /;"	d
+__FLT64X_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_DIG__ /;"	d
+__FLT64X_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_EPSILON__ /;"	d
+__FLT64X_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_EPSILON__ /;"	d
+__FLT64X_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_HAS_DENORM__ /;"	d
+__FLT64X_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_HAS_DENORM__ /;"	d
+__FLT64X_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_HAS_INFINITY__ /;"	d
+__FLT64X_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_HAS_INFINITY__ /;"	d
+__FLT64X_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_HAS_QUIET_NAN__ /;"	d
+__FLT64X_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_HAS_QUIET_NAN__ /;"	d
+__FLT64X_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_IS_IEC_60559__ /;"	d
+__FLT64X_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_IS_IEC_60559__ /;"	d
+__FLT64X_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MANT_DIG__ /;"	d
+__FLT64X_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MANT_DIG__ /;"	d
+__FLT64X_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MAX_10_EXP__ /;"	d
+__FLT64X_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MAX_10_EXP__ /;"	d
+__FLT64X_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MAX_EXP__ /;"	d
+__FLT64X_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MAX_EXP__ /;"	d
+__FLT64X_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MAX__ /;"	d
+__FLT64X_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MAX__ /;"	d
+__FLT64X_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MIN_10_EXP__ /;"	d
+__FLT64X_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MIN_10_EXP__ /;"	d
+__FLT64X_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MIN_EXP__ /;"	d
+__FLT64X_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MIN_EXP__ /;"	d
+__FLT64X_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_MIN__ /;"	d
+__FLT64X_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_MIN__ /;"	d
+__FLT64X_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64X_NORM_MAX__ /;"	d
+__FLT64X_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64X_NORM_MAX__ /;"	d
+__FLT64_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_DECIMAL_DIG__ /;"	d
+__FLT64_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_DECIMAL_DIG__ /;"	d
+__FLT64_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_DENORM_MIN__ /;"	d
+__FLT64_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_DENORM_MIN__ /;"	d
+__FLT64_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_DIG__ /;"	d
+__FLT64_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_DIG__ /;"	d
+__FLT64_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_EPSILON__ /;"	d
+__FLT64_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_EPSILON__ /;"	d
+__FLT64_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_HAS_DENORM__ /;"	d
+__FLT64_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_HAS_DENORM__ /;"	d
+__FLT64_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_HAS_INFINITY__ /;"	d
+__FLT64_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_HAS_INFINITY__ /;"	d
+__FLT64_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_HAS_QUIET_NAN__ /;"	d
+__FLT64_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_HAS_QUIET_NAN__ /;"	d
+__FLT64_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_IS_IEC_60559__ /;"	d
+__FLT64_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_IS_IEC_60559__ /;"	d
+__FLT64_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MANT_DIG__ /;"	d
+__FLT64_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MANT_DIG__ /;"	d
+__FLT64_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MAX_10_EXP__ /;"	d
+__FLT64_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MAX_10_EXP__ /;"	d
+__FLT64_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MAX_EXP__ /;"	d
+__FLT64_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MAX_EXP__ /;"	d
+__FLT64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MAX__ /;"	d
+__FLT64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MAX__ /;"	d
+__FLT64_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MIN_10_EXP__ /;"	d
+__FLT64_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MIN_10_EXP__ /;"	d
+__FLT64_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MIN_EXP__ /;"	d
+__FLT64_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MIN_EXP__ /;"	d
+__FLT64_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_MIN__ /;"	d
+__FLT64_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_MIN__ /;"	d
+__FLT64_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT64_NORM_MAX__ /;"	d
+__FLT64_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT64_NORM_MAX__ /;"	d
+__FLT_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_DECIMAL_DIG__ /;"	d
+__FLT_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_DECIMAL_DIG__ /;"	d
+__FLT_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_DENORM_MIN__ /;"	d
+__FLT_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_DENORM_MIN__ /;"	d
+__FLT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_DIG__ /;"	d
+__FLT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_DIG__ /;"	d
+__FLT_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_EPSILON__ /;"	d
+__FLT_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_EPSILON__ /;"	d
+__FLT_EVAL_METHOD_TS_18661_3__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_EVAL_METHOD_TS_18661_3__ /;"	d
+__FLT_EVAL_METHOD_TS_18661_3__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_EVAL_METHOD_TS_18661_3__ /;"	d
+__FLT_EVAL_METHOD__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_EVAL_METHOD__ /;"	d
+__FLT_EVAL_METHOD__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_EVAL_METHOD__ /;"	d
+__FLT_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_HAS_DENORM__ /;"	d
+__FLT_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_HAS_DENORM__ /;"	d
+__FLT_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_HAS_INFINITY__ /;"	d
+__FLT_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_HAS_INFINITY__ /;"	d
+__FLT_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_HAS_QUIET_NAN__ /;"	d
+__FLT_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_HAS_QUIET_NAN__ /;"	d
+__FLT_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_IS_IEC_60559__ /;"	d
+__FLT_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_IS_IEC_60559__ /;"	d
+__FLT_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MANT_DIG__ /;"	d
+__FLT_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MANT_DIG__ /;"	d
+__FLT_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MAX_10_EXP__ /;"	d
+__FLT_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MAX_10_EXP__ /;"	d
+__FLT_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MAX_EXP__ /;"	d
+__FLT_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MAX_EXP__ /;"	d
+__FLT_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MAX__ /;"	d
+__FLT_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MAX__ /;"	d
+__FLT_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MIN_10_EXP__ /;"	d
+__FLT_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MIN_10_EXP__ /;"	d
+__FLT_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MIN_EXP__ /;"	d
+__FLT_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MIN_EXP__ /;"	d
+__FLT_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_MIN__ /;"	d
+__FLT_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_MIN__ /;"	d
+__FLT_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_NORM_MAX__ /;"	d
+__FLT_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_NORM_MAX__ /;"	d
+__FLT_RADIX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FLT_RADIX__ /;"	d
+__FLT_RADIX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FLT_RADIX__ /;"	d
+__FXSR__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __FXSR__ /;"	d
+__FXSR__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __FXSR__ /;"	d
+__GCC_ASM_FLAG_OUTPUTS__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ASM_FLAG_OUTPUTS__ /;"	d
+__GCC_ASM_FLAG_OUTPUTS__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ASM_FLAG_OUTPUTS__ /;"	d
+__GCC_ATOMIC_BOOL_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_BOOL_LOCK_FREE /;"	d
+__GCC_ATOMIC_BOOL_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_BOOL_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR16_T_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR16_T_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR16_T_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR16_T_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR32_T_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR32_T_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR32_T_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR32_T_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR_LOCK_FREE /;"	d
+__GCC_ATOMIC_CHAR_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_CHAR_LOCK_FREE /;"	d
+__GCC_ATOMIC_INT_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_INT_LOCK_FREE /;"	d
+__GCC_ATOMIC_INT_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_INT_LOCK_FREE /;"	d
+__GCC_ATOMIC_LLONG_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_LLONG_LOCK_FREE /;"	d
+__GCC_ATOMIC_LLONG_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_LLONG_LOCK_FREE /;"	d
+__GCC_ATOMIC_LONG_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_LONG_LOCK_FREE /;"	d
+__GCC_ATOMIC_LONG_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_LONG_LOCK_FREE /;"	d
+__GCC_ATOMIC_POINTER_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_POINTER_LOCK_FREE /;"	d
+__GCC_ATOMIC_POINTER_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_POINTER_LOCK_FREE /;"	d
+__GCC_ATOMIC_SHORT_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_SHORT_LOCK_FREE /;"	d
+__GCC_ATOMIC_SHORT_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_SHORT_LOCK_FREE /;"	d
+__GCC_ATOMIC_TEST_AND_SET_TRUEVAL	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_TEST_AND_SET_TRUEVAL /;"	d
+__GCC_ATOMIC_TEST_AND_SET_TRUEVAL	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_TEST_AND_SET_TRUEVAL /;"	d
+__GCC_ATOMIC_WCHAR_T_LOCK_FREE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_WCHAR_T_LOCK_FREE /;"	d
+__GCC_ATOMIC_WCHAR_T_LOCK_FREE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_ATOMIC_WCHAR_T_LOCK_FREE /;"	d
+__GCC_HAVE_DWARF2_CFI_ASM	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_HAVE_DWARF2_CFI_ASM /;"	d
+__GCC_HAVE_DWARF2_CFI_ASM	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_HAVE_DWARF2_CFI_ASM /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_1	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_1 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_1	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_1 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_2	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_2 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_2	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_2 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_4	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_4 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_4	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_4 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_8	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_8 /;"	d
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_8	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_8 /;"	d
+__GCC_IEC_559	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_IEC_559 /;"	d
+__GCC_IEC_559	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_IEC_559 /;"	d
+__GCC_IEC_559_COMPLEX	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GCC_IEC_559_COMPLEX /;"	d
+__GCC_IEC_559_COMPLEX	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GCC_IEC_559_COMPLEX /;"	d
+__GLIBCXX_BITSIZE_INT_N_0	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GLIBCXX_BITSIZE_INT_N_0 /;"	d
+__GLIBCXX_BITSIZE_INT_N_0	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GLIBCXX_BITSIZE_INT_N_0 /;"	d
+__GLIBCXX_TYPE_INT_N_0	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GLIBCXX_TYPE_INT_N_0 /;"	d
+__GLIBCXX_TYPE_INT_N_0	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GLIBCXX_TYPE_INT_N_0 /;"	d
+__GNUC_EXECUTION_CHARSET_NAME	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC_EXECUTION_CHARSET_NAME /;"	d
+__GNUC_EXECUTION_CHARSET_NAME	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC_EXECUTION_CHARSET_NAME /;"	d
+__GNUC_MINOR__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC_MINOR__ /;"	d
+__GNUC_MINOR__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC_MINOR__ /;"	d
+__GNUC_PATCHLEVEL__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC_PATCHLEVEL__ /;"	d
+__GNUC_PATCHLEVEL__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC_PATCHLEVEL__ /;"	d
+__GNUC_STDC_INLINE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC_STDC_INLINE__ /;"	d
+__GNUC_STDC_INLINE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC_STDC_INLINE__ /;"	d
+__GNUC_WIDE_EXECUTION_CHARSET_NAME	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC_WIDE_EXECUTION_CHARSET_NAME /;"	d
+__GNUC_WIDE_EXECUTION_CHARSET_NAME	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC_WIDE_EXECUTION_CHARSET_NAME /;"	d
+__GNUC__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUC__ /;"	d
+__GNUC__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUC__ /;"	d
+__GNUG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GNUG__ /;"	d
+__GNUG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GNUG__ /;"	d
+__GXX_ABI_VERSION	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GXX_ABI_VERSION /;"	d
+__GXX_ABI_VERSION	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GXX_ABI_VERSION /;"	d
+__GXX_EXPERIMENTAL_CXX0X__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GXX_EXPERIMENTAL_CXX0X__ /;"	d
+__GXX_EXPERIMENTAL_CXX0X__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GXX_EXPERIMENTAL_CXX0X__ /;"	d
+__GXX_RTTI	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GXX_RTTI /;"	d
+__GXX_RTTI	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GXX_RTTI /;"	d
+__GXX_WEAK__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __GXX_WEAK__ /;"	d
+__GXX_WEAK__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __GXX_WEAK__ /;"	d
+__HAVE_SPECULATION_SAFE_VALUE	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __HAVE_SPECULATION_SAFE_VALUE /;"	d
+__HAVE_SPECULATION_SAFE_VALUE	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __HAVE_SPECULATION_SAFE_VALUE /;"	d
+__INT16_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT16_C(/;"	d
+__INT16_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT16_C(/;"	d
+__INT16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT16_MAX__ /;"	d
+__INT16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT16_MAX__ /;"	d
+__INT16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT16_TYPE__ /;"	d
+__INT16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT16_TYPE__ /;"	d
+__INT32_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT32_C(/;"	d
+__INT32_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT32_C(/;"	d
+__INT32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT32_MAX__ /;"	d
+__INT32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT32_MAX__ /;"	d
+__INT32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT32_TYPE__ /;"	d
+__INT32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT32_TYPE__ /;"	d
+__INT64_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT64_C(/;"	d
+__INT64_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT64_C(/;"	d
+__INT64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT64_MAX__ /;"	d
+__INT64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT64_MAX__ /;"	d
+__INT64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT64_TYPE__ /;"	d
+__INT64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT64_TYPE__ /;"	d
+__INT8_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT8_C(/;"	d
+__INT8_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT8_C(/;"	d
+__INT8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT8_MAX__ /;"	d
+__INT8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT8_MAX__ /;"	d
+__INT8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT8_TYPE__ /;"	d
+__INT8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT8_TYPE__ /;"	d
+__INTMAX_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTMAX_C(/;"	d
+__INTMAX_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTMAX_C(/;"	d
+__INTMAX_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTMAX_MAX__ /;"	d
+__INTMAX_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTMAX_MAX__ /;"	d
+__INTMAX_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTMAX_TYPE__ /;"	d
+__INTMAX_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTMAX_TYPE__ /;"	d
+__INTMAX_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTMAX_WIDTH__ /;"	d
+__INTMAX_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTMAX_WIDTH__ /;"	d
+__INTPTR_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTPTR_MAX__ /;"	d
+__INTPTR_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTPTR_MAX__ /;"	d
+__INTPTR_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTPTR_TYPE__ /;"	d
+__INTPTR_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTPTR_TYPE__ /;"	d
+__INTPTR_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INTPTR_WIDTH__ /;"	d
+__INTPTR_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INTPTR_WIDTH__ /;"	d
+__INT_FAST16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST16_MAX__ /;"	d
+__INT_FAST16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST16_MAX__ /;"	d
+__INT_FAST16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST16_TYPE__ /;"	d
+__INT_FAST16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST16_TYPE__ /;"	d
+__INT_FAST16_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST16_WIDTH__ /;"	d
+__INT_FAST16_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST16_WIDTH__ /;"	d
+__INT_FAST32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST32_MAX__ /;"	d
+__INT_FAST32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST32_MAX__ /;"	d
+__INT_FAST32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST32_TYPE__ /;"	d
+__INT_FAST32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST32_TYPE__ /;"	d
+__INT_FAST32_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST32_WIDTH__ /;"	d
+__INT_FAST32_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST32_WIDTH__ /;"	d
+__INT_FAST64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST64_MAX__ /;"	d
+__INT_FAST64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST64_MAX__ /;"	d
+__INT_FAST64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST64_TYPE__ /;"	d
+__INT_FAST64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST64_TYPE__ /;"	d
+__INT_FAST64_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST64_WIDTH__ /;"	d
+__INT_FAST64_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST64_WIDTH__ /;"	d
+__INT_FAST8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST8_MAX__ /;"	d
+__INT_FAST8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST8_MAX__ /;"	d
+__INT_FAST8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST8_TYPE__ /;"	d
+__INT_FAST8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST8_TYPE__ /;"	d
+__INT_FAST8_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_FAST8_WIDTH__ /;"	d
+__INT_FAST8_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_FAST8_WIDTH__ /;"	d
+__INT_LEAST16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST16_MAX__ /;"	d
+__INT_LEAST16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST16_MAX__ /;"	d
+__INT_LEAST16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST16_TYPE__ /;"	d
+__INT_LEAST16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST16_TYPE__ /;"	d
+__INT_LEAST16_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST16_WIDTH__ /;"	d
+__INT_LEAST16_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST16_WIDTH__ /;"	d
+__INT_LEAST32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST32_MAX__ /;"	d
+__INT_LEAST32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST32_MAX__ /;"	d
+__INT_LEAST32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST32_TYPE__ /;"	d
+__INT_LEAST32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST32_TYPE__ /;"	d
+__INT_LEAST32_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST32_WIDTH__ /;"	d
+__INT_LEAST32_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST32_WIDTH__ /;"	d
+__INT_LEAST64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST64_MAX__ /;"	d
+__INT_LEAST64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST64_MAX__ /;"	d
+__INT_LEAST64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST64_TYPE__ /;"	d
+__INT_LEAST64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST64_TYPE__ /;"	d
+__INT_LEAST64_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST64_WIDTH__ /;"	d
+__INT_LEAST64_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST64_WIDTH__ /;"	d
+__INT_LEAST8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST8_MAX__ /;"	d
+__INT_LEAST8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST8_MAX__ /;"	d
+__INT_LEAST8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST8_TYPE__ /;"	d
+__INT_LEAST8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST8_TYPE__ /;"	d
+__INT_LEAST8_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_LEAST8_WIDTH__ /;"	d
+__INT_LEAST8_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_LEAST8_WIDTH__ /;"	d
+__INT_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_MAX__ /;"	d
+__INT_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_MAX__ /;"	d
+__INT_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __INT_WIDTH__ /;"	d
+__INT_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __INT_WIDTH__ /;"	d
+__LDBL_DECIMAL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_DECIMAL_DIG__ /;"	d
+__LDBL_DECIMAL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_DECIMAL_DIG__ /;"	d
+__LDBL_DENORM_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_DENORM_MIN__ /;"	d
+__LDBL_DENORM_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_DENORM_MIN__ /;"	d
+__LDBL_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_DIG__ /;"	d
+__LDBL_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_DIG__ /;"	d
+__LDBL_EPSILON__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_EPSILON__ /;"	d
+__LDBL_EPSILON__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_EPSILON__ /;"	d
+__LDBL_HAS_DENORM__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_HAS_DENORM__ /;"	d
+__LDBL_HAS_DENORM__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_HAS_DENORM__ /;"	d
+__LDBL_HAS_INFINITY__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_HAS_INFINITY__ /;"	d
+__LDBL_HAS_INFINITY__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_HAS_INFINITY__ /;"	d
+__LDBL_HAS_QUIET_NAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_HAS_QUIET_NAN__ /;"	d
+__LDBL_HAS_QUIET_NAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_HAS_QUIET_NAN__ /;"	d
+__LDBL_IS_IEC_60559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_IS_IEC_60559__ /;"	d
+__LDBL_IS_IEC_60559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_IS_IEC_60559__ /;"	d
+__LDBL_MANT_DIG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MANT_DIG__ /;"	d
+__LDBL_MANT_DIG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MANT_DIG__ /;"	d
+__LDBL_MAX_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MAX_10_EXP__ /;"	d
+__LDBL_MAX_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MAX_10_EXP__ /;"	d
+__LDBL_MAX_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MAX_EXP__ /;"	d
+__LDBL_MAX_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MAX_EXP__ /;"	d
+__LDBL_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MAX__ /;"	d
+__LDBL_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MAX__ /;"	d
+__LDBL_MIN_10_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MIN_10_EXP__ /;"	d
+__LDBL_MIN_10_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MIN_10_EXP__ /;"	d
+__LDBL_MIN_EXP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MIN_EXP__ /;"	d
+__LDBL_MIN_EXP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MIN_EXP__ /;"	d
+__LDBL_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_MIN__ /;"	d
+__LDBL_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_MIN__ /;"	d
+__LDBL_NORM_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LDBL_NORM_MAX__ /;"	d
+__LDBL_NORM_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LDBL_NORM_MAX__ /;"	d
+__LONG_LONG_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LONG_LONG_MAX__ /;"	d
+__LONG_LONG_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LONG_LONG_MAX__ /;"	d
+__LONG_LONG_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LONG_LONG_WIDTH__ /;"	d
+__LONG_LONG_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LONG_LONG_WIDTH__ /;"	d
+__LONG_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LONG_MAX__ /;"	d
+__LONG_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LONG_MAX__ /;"	d
+__LONG_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LONG_WIDTH__ /;"	d
+__LONG_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LONG_WIDTH__ /;"	d
+__LP64__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __LP64__ /;"	d
+__LP64__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __LP64__ /;"	d
+__MMX_WITH_SSE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __MMX_WITH_SSE__ /;"	d
+__MMX_WITH_SSE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __MMX_WITH_SSE__ /;"	d
+__MMX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __MMX__ /;"	d
+__MMX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __MMX__ /;"	d
+__NO_INLINE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __NO_INLINE__ /;"	d
+__NO_INLINE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __NO_INLINE__ /;"	d
+__ORDER_BIG_ENDIAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ORDER_BIG_ENDIAN__ /;"	d
+__ORDER_BIG_ENDIAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ORDER_BIG_ENDIAN__ /;"	d
+__ORDER_LITTLE_ENDIAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ORDER_LITTLE_ENDIAN__ /;"	d
+__ORDER_LITTLE_ENDIAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ORDER_LITTLE_ENDIAN__ /;"	d
+__ORDER_PDP_ENDIAN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __ORDER_PDP_ENDIAN__ /;"	d
+__ORDER_PDP_ENDIAN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __ORDER_PDP_ENDIAN__ /;"	d
+__PIC__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PIC__ /;"	d
+__PIC__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PIC__ /;"	d
+__PIE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PIE__ /;"	d
+__PIE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PIE__ /;"	d
+__PRAGMA_REDEFINE_EXTNAME	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PRAGMA_REDEFINE_EXTNAME /;"	d
+__PRAGMA_REDEFINE_EXTNAME	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PRAGMA_REDEFINE_EXTNAME /;"	d
+__PTRDIFF_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PTRDIFF_MAX__ /;"	d
+__PTRDIFF_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PTRDIFF_MAX__ /;"	d
+__PTRDIFF_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PTRDIFF_TYPE__ /;"	d
+__PTRDIFF_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PTRDIFF_TYPE__ /;"	d
+__PTRDIFF_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __PTRDIFF_WIDTH__ /;"	d
+__PTRDIFF_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __PTRDIFF_WIDTH__ /;"	d
+__REGISTER_PREFIX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __REGISTER_PREFIX__ /;"	d
+__REGISTER_PREFIX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __REGISTER_PREFIX__ /;"	d
+__SCHAR_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SCHAR_MAX__ /;"	d
+__SCHAR_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SCHAR_MAX__ /;"	d
+__SCHAR_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SCHAR_WIDTH__ /;"	d
+__SCHAR_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SCHAR_WIDTH__ /;"	d
+__SEG_FS	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SEG_FS /;"	d
+__SEG_FS	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SEG_FS /;"	d
+__SEG_GS	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SEG_GS /;"	d
+__SEG_GS	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SEG_GS /;"	d
+__SHRT_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SHRT_MAX__ /;"	d
+__SHRT_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SHRT_MAX__ /;"	d
+__SHRT_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SHRT_WIDTH__ /;"	d
+__SHRT_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SHRT_WIDTH__ /;"	d
+__SIG_ATOMIC_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_MAX__ /;"	d
+__SIG_ATOMIC_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_MAX__ /;"	d
+__SIG_ATOMIC_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_MIN__ /;"	d
+__SIG_ATOMIC_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_MIN__ /;"	d
+__SIG_ATOMIC_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_TYPE__ /;"	d
+__SIG_ATOMIC_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_TYPE__ /;"	d
+__SIG_ATOMIC_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_WIDTH__ /;"	d
+__SIG_ATOMIC_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIG_ATOMIC_WIDTH__ /;"	d
+__SIZEOF_DOUBLE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_DOUBLE__ /;"	d
+__SIZEOF_DOUBLE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_DOUBLE__ /;"	d
+__SIZEOF_FLOAT128__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT128__ /;"	d
+__SIZEOF_FLOAT128__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT128__ /;"	d
+__SIZEOF_FLOAT80__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT80__ /;"	d
+__SIZEOF_FLOAT80__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT80__ /;"	d
+__SIZEOF_FLOAT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT__ /;"	d
+__SIZEOF_FLOAT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_FLOAT__ /;"	d
+__SIZEOF_INT128__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_INT128__ /;"	d
+__SIZEOF_INT128__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_INT128__ /;"	d
+__SIZEOF_INT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_INT__ /;"	d
+__SIZEOF_INT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_INT__ /;"	d
+__SIZEOF_LONG_DOUBLE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_LONG_DOUBLE__ /;"	d
+__SIZEOF_LONG_DOUBLE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_LONG_DOUBLE__ /;"	d
+__SIZEOF_LONG_LONG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_LONG_LONG__ /;"	d
+__SIZEOF_LONG_LONG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_LONG_LONG__ /;"	d
+__SIZEOF_LONG__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_LONG__ /;"	d
+__SIZEOF_LONG__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_LONG__ /;"	d
+__SIZEOF_POINTER__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_POINTER__ /;"	d
+__SIZEOF_POINTER__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_POINTER__ /;"	d
+__SIZEOF_PTRDIFF_T__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_PTRDIFF_T__ /;"	d
+__SIZEOF_PTRDIFF_T__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_PTRDIFF_T__ /;"	d
+__SIZEOF_SHORT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_SHORT__ /;"	d
+__SIZEOF_SHORT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_SHORT__ /;"	d
+__SIZEOF_SIZE_T__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_SIZE_T__ /;"	d
+__SIZEOF_SIZE_T__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_SIZE_T__ /;"	d
+__SIZEOF_WCHAR_T__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_WCHAR_T__ /;"	d
+__SIZEOF_WCHAR_T__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_WCHAR_T__ /;"	d
+__SIZEOF_WINT_T__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZEOF_WINT_T__ /;"	d
+__SIZEOF_WINT_T__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZEOF_WINT_T__ /;"	d
+__SIZE_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZE_MAX__ /;"	d
+__SIZE_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZE_MAX__ /;"	d
+__SIZE_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZE_TYPE__ /;"	d
+__SIZE_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZE_TYPE__ /;"	d
+__SIZE_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SIZE_WIDTH__ /;"	d
+__SIZE_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SIZE_WIDTH__ /;"	d
+__SSE2_MATH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SSE2_MATH__ /;"	d
+__SSE2_MATH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SSE2_MATH__ /;"	d
+__SSE2__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SSE2__ /;"	d
+__SSE2__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SSE2__ /;"	d
+__SSE_MATH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SSE_MATH__ /;"	d
+__SSE_MATH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SSE_MATH__ /;"	d
+__SSE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __SSE__ /;"	d
+__SSE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __SSE__ /;"	d
+__STDCPP_DEFAULT_NEW_ALIGNMENT__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDCPP_DEFAULT_NEW_ALIGNMENT__ /;"	d
+__STDCPP_DEFAULT_NEW_ALIGNMENT__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDCPP_DEFAULT_NEW_ALIGNMENT__ /;"	d
+__STDCPP_THREADS__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDCPP_THREADS__ /;"	d
+__STDCPP_THREADS__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDCPP_THREADS__ /;"	d
+__STDC_HOSTED__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_HOSTED__ /;"	d
+__STDC_HOSTED__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_HOSTED__ /;"	d
+__STDC_IEC_559_COMPLEX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_IEC_559_COMPLEX__ /;"	d
+__STDC_IEC_559_COMPLEX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_IEC_559_COMPLEX__ /;"	d
+__STDC_IEC_559__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_IEC_559__ /;"	d
+__STDC_IEC_559__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_IEC_559__ /;"	d
+__STDC_IEC_60559_BFP__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_IEC_60559_BFP__ /;"	d
+__STDC_IEC_60559_BFP__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_IEC_60559_BFP__ /;"	d
+__STDC_IEC_60559_COMPLEX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_IEC_60559_COMPLEX__ /;"	d
+__STDC_IEC_60559_COMPLEX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_IEC_60559_COMPLEX__ /;"	d
+__STDC_ISO_10646__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_ISO_10646__ /;"	d
+__STDC_ISO_10646__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_ISO_10646__ /;"	d
+__STDC_UTF_16__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_UTF_16__ /;"	d
+__STDC_UTF_16__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_UTF_16__ /;"	d
+__STDC_UTF_32__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC_UTF_32__ /;"	d
+__STDC_UTF_32__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC_UTF_32__ /;"	d
+__STDC__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __STDC__ /;"	d
+__STDC__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __STDC__ /;"	d
+__UINT16_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT16_C(/;"	d
+__UINT16_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT16_C(/;"	d
+__UINT16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT16_MAX__ /;"	d
+__UINT16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT16_MAX__ /;"	d
+__UINT16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT16_TYPE__ /;"	d
+__UINT16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT16_TYPE__ /;"	d
+__UINT32_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT32_C(/;"	d
+__UINT32_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT32_C(/;"	d
+__UINT32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT32_MAX__ /;"	d
+__UINT32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT32_MAX__ /;"	d
+__UINT32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT32_TYPE__ /;"	d
+__UINT32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT32_TYPE__ /;"	d
+__UINT64_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT64_C(/;"	d
+__UINT64_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT64_C(/;"	d
+__UINT64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT64_MAX__ /;"	d
+__UINT64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT64_MAX__ /;"	d
+__UINT64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT64_TYPE__ /;"	d
+__UINT64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT64_TYPE__ /;"	d
+__UINT8_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT8_C(/;"	d
+__UINT8_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT8_C(/;"	d
+__UINT8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT8_MAX__ /;"	d
+__UINT8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT8_MAX__ /;"	d
+__UINT8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT8_TYPE__ /;"	d
+__UINT8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT8_TYPE__ /;"	d
+__UINTMAX_C	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINTMAX_C(/;"	d
+__UINTMAX_C	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINTMAX_C(/;"	d
+__UINTMAX_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINTMAX_MAX__ /;"	d
+__UINTMAX_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINTMAX_MAX__ /;"	d
+__UINTMAX_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINTMAX_TYPE__ /;"	d
+__UINTMAX_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINTMAX_TYPE__ /;"	d
+__UINTPTR_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINTPTR_MAX__ /;"	d
+__UINTPTR_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINTPTR_MAX__ /;"	d
+__UINTPTR_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINTPTR_TYPE__ /;"	d
+__UINTPTR_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINTPTR_TYPE__ /;"	d
+__UINT_FAST16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST16_MAX__ /;"	d
+__UINT_FAST16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST16_MAX__ /;"	d
+__UINT_FAST16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST16_TYPE__ /;"	d
+__UINT_FAST16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST16_TYPE__ /;"	d
+__UINT_FAST32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST32_MAX__ /;"	d
+__UINT_FAST32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST32_MAX__ /;"	d
+__UINT_FAST32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST32_TYPE__ /;"	d
+__UINT_FAST32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST32_TYPE__ /;"	d
+__UINT_FAST64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST64_MAX__ /;"	d
+__UINT_FAST64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST64_MAX__ /;"	d
+__UINT_FAST64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST64_TYPE__ /;"	d
+__UINT_FAST64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST64_TYPE__ /;"	d
+__UINT_FAST8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST8_MAX__ /;"	d
+__UINT_FAST8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST8_MAX__ /;"	d
+__UINT_FAST8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_FAST8_TYPE__ /;"	d
+__UINT_FAST8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_FAST8_TYPE__ /;"	d
+__UINT_LEAST16_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST16_MAX__ /;"	d
+__UINT_LEAST16_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST16_MAX__ /;"	d
+__UINT_LEAST16_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST16_TYPE__ /;"	d
+__UINT_LEAST16_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST16_TYPE__ /;"	d
+__UINT_LEAST32_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST32_MAX__ /;"	d
+__UINT_LEAST32_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST32_MAX__ /;"	d
+__UINT_LEAST32_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST32_TYPE__ /;"	d
+__UINT_LEAST32_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST32_TYPE__ /;"	d
+__UINT_LEAST64_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST64_MAX__ /;"	d
+__UINT_LEAST64_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST64_MAX__ /;"	d
+__UINT_LEAST64_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST64_TYPE__ /;"	d
+__UINT_LEAST64_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST64_TYPE__ /;"	d
+__UINT_LEAST8_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST8_MAX__ /;"	d
+__UINT_LEAST8_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST8_MAX__ /;"	d
+__UINT_LEAST8_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __UINT_LEAST8_TYPE__ /;"	d
+__UINT_LEAST8_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __UINT_LEAST8_TYPE__ /;"	d
+__USER_LABEL_PREFIX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __USER_LABEL_PREFIX__ /;"	d
+__USER_LABEL_PREFIX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __USER_LABEL_PREFIX__ /;"	d
+__VERSION__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __VERSION__ /;"	d
+__VERSION__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __VERSION__ /;"	d
+__WCHAR_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WCHAR_MAX__ /;"	d
+__WCHAR_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WCHAR_MAX__ /;"	d
+__WCHAR_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WCHAR_MIN__ /;"	d
+__WCHAR_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WCHAR_MIN__ /;"	d
+__WCHAR_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WCHAR_TYPE__ /;"	d
+__WCHAR_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WCHAR_TYPE__ /;"	d
+__WCHAR_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WCHAR_WIDTH__ /;"	d
+__WCHAR_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WCHAR_WIDTH__ /;"	d
+__WINT_MAX__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WINT_MAX__ /;"	d
+__WINT_MAX__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WINT_MAX__ /;"	d
+__WINT_MIN__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WINT_MIN__ /;"	d
+__WINT_MIN__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WINT_MIN__ /;"	d
+__WINT_TYPE__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WINT_TYPE__ /;"	d
+__WINT_TYPE__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WINT_TYPE__ /;"	d
+__WINT_WIDTH__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __WINT_WIDTH__ /;"	d
+__WINT_WIDTH__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __WINT_WIDTH__ /;"	d
+__amd64	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __amd64 /;"	d
+__amd64	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __amd64 /;"	d
+__amd64__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __amd64__ /;"	d
+__amd64__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __amd64__ /;"	d
+__anonb77feeb60102	i3ipc++/examples/events.cpp	/^	conn.signal_workspace_event.connect([](const i3ipc::workspace_event_t&  ev) {$/;"	f	function:main	file:
+__anonb77feeb60202	i3ipc++/examples/events.cpp	/^	conn.signal_window_event.connect([](const i3ipc::window_event_t&  ev) {$/;"	f	function:main	file:
+__anonb77feeb60302	i3ipc++/examples/events.cpp	/^	conn.signal_binding_event.connect([](const i3ipc::binding_t&  b) {$/;"	f	function:main	file:
+__anonb7a6baaf0102	src/i3listener.cpp	/^        conn.signal_workspace_event.connect([this](const i3ipc::workspace_event_t& ev) {$/;"	f	function:I3ListenerThread::handleI3Events	file:
+__anonb7a6baaf0202	src/i3listener.cpp	/^        conn.signal_mode_event.connect([this](const i3ipc::mode_t& i3mode) {$/;"	f	function:I3ListenerThread::handleI3Events	file:
+__anone0494bdc0102	src/workspace.cpp	/^    std::sort(inputWorkspaces.begin(), inputWorkspaces.end(), [](Workspace a,Workspace b) {$/;"	f	function:Workspace::orderByName	file:
+__anone8c9aaa60102	i3ipc++/src/ipc.cpp	/^	signal_event.connect([this](EventType  event_type, const std::shared_ptr<const buf_t>&  buf) {$/;"	f	function:i3ipc::connection::connection	file:
+__anonec39a6780102	src/i3pager.cpp	/^    connect(i3ListenerThread, &I3ListenerThread::modeChanged, this, [=](const QString& mode) {$/;"	f	function:I3Pager::I3Pager	file:
+__anonec39a6780202	src/i3pager.cpp	/^    connect(i3ListenerThread, &I3ListenerThread::workspacesChanged, this, [=]() {$/;"	f	function:I3Pager::I3Pager	file:
+__code_model_small__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __code_model_small__ /;"	d
+__code_model_small__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __code_model_small__ /;"	d
+__cplusplus	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cplusplus /;"	d
+__cplusplus	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cplusplus /;"	d
+__cpp_aggregate_bases	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_aggregate_bases /;"	d
+__cpp_aggregate_bases	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_aggregate_bases /;"	d
+__cpp_aggregate_nsdmi	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_aggregate_nsdmi /;"	d
+__cpp_aggregate_nsdmi	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_aggregate_nsdmi /;"	d
+__cpp_alias_templates	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_alias_templates /;"	d
+__cpp_alias_templates	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_alias_templates /;"	d
+__cpp_aligned_new	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_aligned_new /;"	d
+__cpp_aligned_new	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_aligned_new /;"	d
+__cpp_attributes	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_attributes /;"	d
+__cpp_attributes	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_attributes /;"	d
+__cpp_binary_literals	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_binary_literals /;"	d
+__cpp_binary_literals	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_binary_literals /;"	d
+__cpp_capture_star_this	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_capture_star_this /;"	d
+__cpp_capture_star_this	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_capture_star_this /;"	d
+__cpp_constexpr	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_constexpr /;"	d
+__cpp_constexpr	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_constexpr /;"	d
+__cpp_decltype	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_decltype /;"	d
+__cpp_decltype	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_decltype /;"	d
+__cpp_decltype_auto	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_decltype_auto /;"	d
+__cpp_decltype_auto	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_decltype_auto /;"	d
+__cpp_deduction_guides	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_deduction_guides /;"	d
+__cpp_deduction_guides	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_deduction_guides /;"	d
+__cpp_delegating_constructors	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_delegating_constructors /;"	d
+__cpp_delegating_constructors	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_delegating_constructors /;"	d
+__cpp_digit_separators	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_digit_separators /;"	d
+__cpp_digit_separators	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_digit_separators /;"	d
+__cpp_enumerator_attributes	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_enumerator_attributes /;"	d
+__cpp_enumerator_attributes	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_enumerator_attributes /;"	d
+__cpp_exceptions	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_exceptions /;"	d
+__cpp_exceptions	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_exceptions /;"	d
+__cpp_fold_expressions	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_fold_expressions /;"	d
+__cpp_fold_expressions	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_fold_expressions /;"	d
+__cpp_generic_lambdas	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_generic_lambdas /;"	d
+__cpp_generic_lambdas	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_generic_lambdas /;"	d
+__cpp_guaranteed_copy_elision	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_guaranteed_copy_elision /;"	d
+__cpp_guaranteed_copy_elision	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_guaranteed_copy_elision /;"	d
+__cpp_hex_float	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_hex_float /;"	d
+__cpp_hex_float	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_hex_float /;"	d
+__cpp_if_constexpr	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_if_constexpr /;"	d
+__cpp_if_constexpr	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_if_constexpr /;"	d
+__cpp_inheriting_constructors	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_inheriting_constructors /;"	d
+__cpp_inheriting_constructors	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_inheriting_constructors /;"	d
+__cpp_init_captures	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_init_captures /;"	d
+__cpp_init_captures	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_init_captures /;"	d
+__cpp_initializer_lists	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_initializer_lists /;"	d
+__cpp_initializer_lists	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_initializer_lists /;"	d
+__cpp_inline_variables	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_inline_variables /;"	d
+__cpp_inline_variables	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_inline_variables /;"	d
+__cpp_lambdas	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_lambdas /;"	d
+__cpp_lambdas	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_lambdas /;"	d
+__cpp_namespace_attributes	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_namespace_attributes /;"	d
+__cpp_namespace_attributes	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_namespace_attributes /;"	d
+__cpp_nested_namespace_definitions	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_nested_namespace_definitions /;"	d
+__cpp_nested_namespace_definitions	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_nested_namespace_definitions /;"	d
+__cpp_noexcept_function_type	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_noexcept_function_type /;"	d
+__cpp_noexcept_function_type	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_noexcept_function_type /;"	d
+__cpp_nontype_template_args	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_nontype_template_args /;"	d
+__cpp_nontype_template_args	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_nontype_template_args /;"	d
+__cpp_nontype_template_parameter_auto	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_nontype_template_parameter_auto /;"	d
+__cpp_nontype_template_parameter_auto	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_nontype_template_parameter_auto /;"	d
+__cpp_nsdmi	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_nsdmi /;"	d
+__cpp_nsdmi	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_nsdmi /;"	d
+__cpp_range_based_for	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_range_based_for /;"	d
+__cpp_range_based_for	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_range_based_for /;"	d
+__cpp_raw_strings	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_raw_strings /;"	d
+__cpp_raw_strings	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_raw_strings /;"	d
+__cpp_ref_qualifiers	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_ref_qualifiers /;"	d
+__cpp_ref_qualifiers	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_ref_qualifiers /;"	d
+__cpp_return_type_deduction	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_return_type_deduction /;"	d
+__cpp_return_type_deduction	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_return_type_deduction /;"	d
+__cpp_rtti	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_rtti /;"	d
+__cpp_rtti	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_rtti /;"	d
+__cpp_runtime_arrays	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_runtime_arrays /;"	d
+__cpp_runtime_arrays	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_runtime_arrays /;"	d
+__cpp_rvalue_reference	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_rvalue_reference /;"	d
+__cpp_rvalue_reference	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_rvalue_reference /;"	d
+__cpp_rvalue_references	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_rvalue_references /;"	d
+__cpp_rvalue_references	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_rvalue_references /;"	d
+__cpp_sized_deallocation	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_sized_deallocation /;"	d
+__cpp_sized_deallocation	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_sized_deallocation /;"	d
+__cpp_static_assert	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_static_assert /;"	d
+__cpp_static_assert	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_static_assert /;"	d
+__cpp_structured_bindings	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_structured_bindings /;"	d
+__cpp_structured_bindings	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_structured_bindings /;"	d
+__cpp_template_auto	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_template_auto /;"	d
+__cpp_template_auto	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_template_auto /;"	d
+__cpp_template_template_args	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_template_template_args /;"	d
+__cpp_template_template_args	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_template_template_args /;"	d
+__cpp_threadsafe_static_init	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_threadsafe_static_init /;"	d
+__cpp_threadsafe_static_init	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_threadsafe_static_init /;"	d
+__cpp_unicode_characters	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_unicode_characters /;"	d
+__cpp_unicode_characters	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_unicode_characters /;"	d
+__cpp_unicode_literals	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_unicode_literals /;"	d
+__cpp_unicode_literals	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_unicode_literals /;"	d
+__cpp_user_defined_literals	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_user_defined_literals /;"	d
+__cpp_user_defined_literals	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_user_defined_literals /;"	d
+__cpp_variable_templates	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_variable_templates /;"	d
+__cpp_variable_templates	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_variable_templates /;"	d
+__cpp_variadic_templates	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_variadic_templates /;"	d
+__cpp_variadic_templates	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_variadic_templates /;"	d
+__cpp_variadic_using	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __cpp_variadic_using /;"	d
+__cpp_variadic_using	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __cpp_variadic_using /;"	d
+__gnu_linux__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __gnu_linux__ /;"	d
+__gnu_linux__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __gnu_linux__ /;"	d
+__has_include	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^#  define __has_include(/;"	d	file:
+__has_include	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+__k8	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __k8 /;"	d
+__k8	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __k8 /;"	d
+__k8__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __k8__ /;"	d
+__k8__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __k8__ /;"	d
+__linux	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __linux /;"	d
+__linux	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __linux /;"	d
+__linux__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __linux__ /;"	d
+__linux__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __linux__ /;"	d
+__pic__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __pic__ /;"	d
+__pic__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __pic__ /;"	d
+__pie__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __pie__ /;"	d
+__pie__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __pie__ /;"	d
+__unix	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __unix /;"	d
+__unix	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __unix /;"	d
+__unix__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __unix__ /;"	d
+__unix__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __unix__ /;"	d
+__x86_64	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __x86_64 /;"	d
+__x86_64	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __x86_64 /;"	d
+__x86_64__	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define __x86_64__ /;"	d
+__x86_64__	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define __x86_64__ /;"	d
+_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^            using _t = void (I3ListenerThread::*)();$/;"	t	function:I3ListenerThread::qt_static_metacall	file:
+_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^            using _t = void (I3ListenerThread::*)(const QString & );$/;"	t	function:I3ListenerThread::qt_static_metacall	file:
+_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^            using _t = void (I3Pager::*)();$/;"	t	function:I3Pager::qt_static_metacall	file:
+activateWorkspace	src/i3pager.cpp	/^void I3Pager::activateWorkspace(QString workspace) {$/;"	f	class:I3Pager	typeref:typename:void
+active	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  active; \/\/\/< Is the output currently active$/;"	m	struct:i3ipc::output_t	typeref:typename:bool
+all	build/Makefile	/^all: cmake_check_build_system$/;"	t
+all	build/i3ipc++/Makefile	/^all: cmake_check_build_system$/;"	t
+all	build/src/Makefile	/^all: cmake_check_build_system$/;"	t
+auss_t	i3ipc++/3rd/auss/include/auss.hpp	/^typedef AutoStringStream auss_t;$/;"	t	namespace:AUSS_OWN_NAMESPACE_NAME	typeref:typename:AutoStringStream
+bar_config_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct bar_config_t {$/;"	s	namespace:i3ipc
+binding_mode_indicator	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  binding_mode_indicator; \/\/\/< Display the mode indicator or not? Defaults to true.$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:bool
+binding_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct binding_t {$/;"	s	namespace:i3ipc
+border	i3ipc++/include/i3ipc++/ipc.hpp	/^	BorderStyle  border; \/\/\/< A style of the container's border$/;"	m	struct:i3ipc::container_t	typeref:typename:BorderStyle
+border_raw	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  border_raw; \/\/\/< A "border" field of TREE reply. NOT empty only if border equal/;"	m	struct:i3ipc::container_t	typeref:typename:std::string
+buf_t	i3ipc++/include/i3ipc++/ipc-util.hpp	/^struct buf_t {$/;"	s	namespace:i3ipc
+buf_t	i3ipc++/src/ipc-util.cpp	/^buf_t::buf_t(uint32_t  payload_size) : size(sizeof(header_t) + payload_size) {$/;"	f	class:i3ipc::buf_t
+change	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  change; \/\/\/< The current mode in use$/;"	m	struct:i3ipc::mode_t	typeref:typename:std::string
+clean	build/Makefile	/^clean:$/;"	t
+clean	build/i3ipc++/Makefile	/^clean:$/;"	t
+clean	build/src/Makefile	/^clean:$/;"	t
+clean/fast	build/Makefile	/^clean\/fast: clean$/;"	t
+clean/fast	build/i3ipc++/Makefile	/^clean\/fast: clean$/;"	t
+clean/fast	build/src/Makefile	/^clean\/fast: clean$/;"	t
+cmake_check_build_system	build/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_check_build_system	build/i3ipc++/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_check_build_system	build/src/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	build/Makefile	/^cmake_force:$/;"	t
+cmake_force	build/i3ipc++/Makefile	/^cmake_force:$/;"	t
+cmake_force	build/src/Makefile	/^cmake_force:$/;"	t
+colors	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::map<std::string, uint32_t>  colors; \/\/\/< Contains key\/value pairs of colors. Each valu/;"	m	struct:i3ipc::bar_config_t	typeref:typename:std::map<std::string,uint32_t>
+command	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  command; \/\/\/< The i3 command that is configured to run for this binding$/;"	m	struct:i3ipc::binding_t	typeref:typename:std::string
+connect_event_socket	i3ipc++/src/ipc.cpp	/^void  connection::connect_event_socket(const bool  reconnect) {$/;"	f	class:i3ipc::connection	typeref:typename:void
+connection	i3ipc++/include/i3ipc++/ipc.hpp	/^class connection {$/;"	c	namespace:i3ipc
+connection	i3ipc++/src/ipc.cpp	/^connection::connection(const std::string&  socket_path) : m_main_socket(i3_connect(socket_path))/;"	f	class:i3ipc::connection
+const	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+container	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::shared_ptr<container_t>  container; \/\/\/< A container event associated with @note With s/;"	m	struct:i3ipc::window_event_t	typeref:typename:std::shared_ptr<container_t>
+container_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct container_t {$/;"	s	namespace:i3ipc
+current	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::shared_ptr<workspace_t>  current; \/\/\/< Current focused workspace$/;"	m	struct:i3ipc::workspace_event_t	typeref:typename:std::shared_ptr<workspace_t>
+currentScreenPrivate	src/i3pager.h	/^    QString currentScreenPrivate;$/;"	m	class:I3Pager	typeref:typename:QString
+current_border_width	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  current_border_width; \/\/\/< Number of pixels of the border width$/;"	m	struct:i3ipc::container_t	typeref:typename:uint32_t
+current_workspace	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  current_workspace; \/\/\/< Name of current workspace$/;"	m	struct:i3ipc::output_t	typeref:typename:std::string
+data	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^    QByteArrayData data[5];$/;"	m	struct:qt_meta_stringdata_I3ListenerThread_t	typeref:typename:QByteArrayData[5]	file:
+data	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^    QByteArrayData data[17];$/;"	m	struct:qt_meta_stringdata_I3Pager_t	typeref:typename:QByteArrayData[17]	file:
+data	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^    QByteArrayData data[1];$/;"	m	struct:qt_meta_stringdata_Plugin_t	typeref:typename:QByteArrayData[1]	file:
+data	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^    QByteArrayData data[9];$/;"	m	struct:qt_meta_stringdata_Workspace_t	typeref:typename:QByteArrayData[9]	file:
+data	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	uint8_t*  data; \/\/\/< @brief Pointer to the message$/;"	m	struct:i3ipc::buf_t	typeref:typename:uint8_t *
+deco_rect	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  deco_rect; \/\/\/< The coordinates of the window decoration inside its container. These/;"	m	struct:i3ipc::container_t	typeref:typename:rect_t
+default_target	build/Makefile	/^default_target: all$/;"	t
+default_target	build/i3ipc++/Makefile	/^default_target: all$/;"	t
+default_target	build/src/Makefile	/^default_target: all$/;"	t
+depend	build/Makefile	/^depend:$/;"	t
+depend	build/i3ipc++/Makefile	/^depend:$/;"	t
+depend	build/src/Makefile	/^depend:$/;"	t
+disconnect_event_socket	i3ipc++/src/ipc.cpp	/^void  connection::disconnect_event_socket() {$/;"	f	class:i3ipc::connection	typeref:typename:void
+dump_bar_config	i3ipc++/examples/bar-configs.cpp	/^static void  dump_bar_config(const i3ipc::bar_config_t&  bc) {$/;"	f	typeref:typename:void	file:
+dump_tree_container	i3ipc++/examples/workspaces.cpp	/^void  dump_tree_container(const i3ipc::container_t&  c, std::string&  prefix) {$/;"	f	typeref:typename:void
+edit_cache	build/Makefile	/^edit_cache:$/;"	t
+edit_cache	build/i3ipc++/Makefile	/^edit_cache:$/;"	t
+edit_cache	build/src/Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	build/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+edit_cache/fast	build/i3ipc++/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+edit_cache/fast	build/src/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+eof_error	i3ipc++/include/i3ipc++/ipc-util.hpp	/^class eof_error : public ipc_error { using ipc_error::ipc_error; };$/;"	c	namespace:i3ipc
+errno_error	i3ipc++/include/i3ipc++/ipc-util.hpp	/^class errno_error : public ipc_error {$/;"	c	namespace:i3ipc
+errno_error	i3ipc++/src/ipc-util.cpp	/^errno_error::errno_error() : ipc_error(format_errno()) {}$/;"	f	class:i3ipc::errno_error
+errno_error	i3ipc++/src/ipc-util.cpp	/^errno_error::errno_error(const std::string&  msg) : ipc_error(format_errno(msg)) {}$/;"	f	class:i3ipc::errno_error
+event_state_mask	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::vector<std::string>  event_state_mask; \/\/\/< The group and modifier keys that were confi/;"	m	struct:i3ipc::binding_t	typeref:typename:std::vector<std::string>
+fetch-translations	build/Makefile	/^fetch-translations: cmake_check_build_system$/;"	t
+fetch-translations/fast	build/Makefile	/^fetch-translations\/fast:$/;"	t
+filterByCurrentScreen	src/workspace.cpp	/^QList<Workspace> Workspace::filterByCurrentScreen(QList<Workspace> inputWorkspaces, QString curr/;"	f	class:Workspace	typeref:typename:QList<Workspace>
+findWorkspaceRecursive	src/i3pager.cpp	/^const i3ipc::container_t* I3Pager::findWorkspaceRecursive(const i3ipc::container_t& container, c/;"	f	class:I3Pager	typeref:typename:const i3ipc::container_t *
+floating_nodes	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::list< std::shared_ptr<container_t> >  floating_nodes;$/;"	m	struct:i3ipc::container_t	typeref:typename:std::list<std::shared_ptr<container_t>>
+focused	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  focused; \/\/\/< Is the workspace is currently focused$/;"	m	struct:i3ipc::workspace_t	typeref:typename:bool
+focused	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  focused;$/;"	m	struct:i3ipc::container_t	typeref:typename:bool
+focused	src/workspace.h	/^    bool focused;$/;"	m	class:Workspace	typeref:typename:bool
+font	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  font; \/\/\/< The font to use for text on the bar$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:std::string
+format_errno	i3ipc++/src/ipc-util.cpp	/^static std::string  format_errno(const std::string&  msg = std::string()) {$/;"	f	namespace:i3ipc	typeref:typename:std::string	file:
+g_i3_ipc_magic	i3ipc++/src/ipc-util.cpp	/^static const std::string  g_i3_ipc_magic = "i3-ipc";$/;"	v	namespace:i3ipc	typeref:typename:const std::string	file:
+g_logging_err_outs	i3ipc++/src/ipc.cpp	/^std::vector<std::ostream*>  g_logging_err_outs = {$/;"	v	namespace:i3ipc	typeref:typename:std::vector<std::ostream * >
+g_logging_outs	i3ipc++/src/ipc.cpp	/^std::vector<std::ostream*>  g_logging_outs = {$/;"	v	namespace:i3ipc	typeref:typename:std::vector<std::ostream * >
+geometry	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  geometry; \/\/\/< The original geometry the window specified when i3 mapped it. Used wh/;"	m	struct:i3ipc::container_t	typeref:typename:rect_t
+getCurrentScreen	src/i3pager.cpp	/^QString I3Pager::getCurrentScreen() {$/;"	f	class:I3Pager	typeref:typename:QString
+getIcon	src/i3pager.cpp	/^QString I3Pager::getIcon(const std::string& workspaceName) {$/;"	f	class:I3Pager	typeref:typename:QString
+getIcon	src/i3pager.cpp	/^std::string I3Pager::IconConfig::getIcon(const std::string& xClass) const {$/;"	f	class:I3Pager::IconConfig	typeref:typename:std::string
+getLargestWindowSize	src/i3pager.cpp	/^I3Pager::Size I3Pager::getLargestWindowSize(const i3ipc::container_t& container) {$/;"	f	class:I3Pager	typeref:typename:I3Pager::Size
+getLargestXClassInWorkspace	src/i3pager.cpp	/^std::string I3Pager::getLargestXClassInWorkspace(const std::string& workspaceName) {$/;"	f	class:I3Pager	typeref:typename:std::string
+getMode	src/i3pager.cpp	/^QString I3Pager::getMode() {$/;"	f	class:I3Pager	typeref:typename:QString
+getScreenNames	src/i3pager.cpp	/^QList<QString> I3Pager::getScreenNames() {$/;"	f	class:I3Pager	typeref:typename:QList<QString>
+getWindowSize	src/i3pager.cpp	/^I3Pager::Size I3Pager::getWindowSize(const i3ipc::container_t& container) {$/;"	f	class:I3Pager	typeref:typename:I3Pager::Size
+getWorkspaces	src/i3pager.cpp	/^QList<Workspace> I3Pager::getWorkspaces(bool filterByCurrentScreen, QString orderWorkspacesBy, Q/;"	f	class:I3Pager	typeref:typename:QList<Workspace>
+get_bar_config	i3ipc++/src/ipc.cpp	/^std::shared_ptr<bar_config_t>  connection::get_bar_config(const std::string&  name) const {$/;"	f	class:i3ipc::connection	typeref:typename:std::shared_ptr<bar_config_t>
+get_bar_configs_list	i3ipc++/src/ipc.cpp	/^std::vector<std::string>  connection::get_bar_configs_list() const {$/;"	f	class:i3ipc::connection	typeref:typename:std::vector<std::string>
+get_event_socket_fd	i3ipc++/src/ipc.cpp	/^int32_t  connection::get_event_socket_fd() { return m_event_socket; }$/;"	f	class:i3ipc::connection	typeref:typename:int32_t
+get_main_socket_fd	i3ipc++/src/ipc.cpp	/^int32_t  connection::get_main_socket_fd() { return m_main_socket; }$/;"	f	class:i3ipc::connection	typeref:typename:int32_t
+get_outputs	i3ipc++/src/ipc.cpp	/^std::vector< std::shared_ptr<output_t> >  connection::get_outputs() const {$/;"	f	class:i3ipc::connection	typeref:typename:std::vector<std::shared_ptr<output_t>>
+get_socketpath	i3ipc++/src/ipc.cpp	/^std::string  get_socketpath() {$/;"	f	namespace:i3ipc	typeref:typename:std::string
+get_tree	i3ipc++/src/ipc.cpp	/^std::shared_ptr<container_t>  connection::get_tree() const {$/;"	f	class:i3ipc::connection	typeref:typename:std::shared_ptr<container_t>
+get_version	i3ipc++/src/ipc.cpp	/^const version_t&  get_version() {$/;"	f	namespace:i3ipc	typeref:typename:const version_t &
+get_version	i3ipc++/src/ipc.cpp	/^version_t  connection::get_version() const {$/;"	f	class:i3ipc::connection	typeref:typename:version_t
+get_workspaces	i3ipc++/src/ipc.cpp	/^std::vector< std::shared_ptr<workspace_t> >  connection::get_workspaces() const {$/;"	f	class:i3ipc::connection	typeref:typename:std::vector<std::shared_ptr<workspace_t>>
+handleI3Events	src/i3listener.cpp	/^void I3ListenerThread::handleI3Events() {$/;"	f	class:I3ListenerThread	typeref:typename:void
+handle_event	i3ipc++/src/ipc.cpp	/^void  connection::handle_event() {$/;"	f	class:i3ipc::connection	typeref:typename:void
+header	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	header_t*  header;$/;"	m	struct:i3ipc::buf_t	typeref:typename:header_t *
+header_t	i3ipc++/include/i3ipc++/ipc-util.hpp	/^struct header_t {$/;"	s	namespace:i3ipc
+height	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  height; \/\/\/< Height of rectangle$/;"	m	struct:i3ipc::rect_t	typeref:typename:uint32_t
+height	src/i3pager.h	/^        int height;$/;"	m	struct:I3Pager::Size	typeref:typename:int
+help	build/Makefile	/^help:$/;"	t
+help	build/i3ipc++/Makefile	/^help:$/;"	t
+help	build/src/Makefile	/^help:$/;"	t
+human_readable	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  human_readable; \/\/\/< Human redable version string$/;"	m	struct:i3ipc::version_t	typeref:typename:std::string
+i3IPC_TYPE_STR	i3ipc++/src/ipc.cpp	/^#define i3IPC_TYPE_STR /;"	d	file:
+i3ListenerThread	src/i3pager.h	/^    I3ListenerThread* i3ListenerThread;$/;"	m	class:I3Pager	typeref:typename:I3ListenerThread *
+i3_connect	i3ipc++/src/ipc-util.cpp	/^int32_t  i3_connect(const std::string&  socket_path) {$/;"	f	namespace:i3ipc	typeref:typename:int32_t
+i3_disconnect	i3ipc++/src/ipc-util.cpp	/^void  i3_disconnect(const int32_t  sockfd) {$/;"	f	namespace:i3ipc	typeref:typename:void
+i3_msg	i3ipc++/src/ipc-util.cpp	/^std::shared_ptr<buf_t>  i3_msg(const int32_t  sockfd, const ClientMessageType  type, const std::/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<buf_t>
+i3_pack	i3ipc++/src/ipc-util.cpp	/^std::shared_ptr<buf_t>  i3_pack(const ClientMessageType  type, const std::string&  payload) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<buf_t>
+i3_recv	i3ipc++/src/ipc-util.cpp	/^std::shared_ptr<buf_t>   i3_recv(const int32_t  sockfd) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<buf_t>
+i3_send	i3ipc++/src/ipc-util.cpp	/^void   i3_send(const int32_t  sockfd, const buf_t&  buff) {$/;"	f	namespace:i3ipc	typeref:typename:void
+i3ipc	i3ipc++/include/i3ipc++/ipc-util.hpp	/^namespace i3ipc {$/;"	n
+i3ipc	i3ipc++/include/i3ipc++/ipc.hpp	/^namespace i3ipc {$/;"	n
+i3ipc	i3ipc++/include/i3ipc++/log.hpp	/^namespace i3ipc {$/;"	n
+i3ipc	i3ipc++/src/ipc-util.cpp	/^namespace i3ipc {$/;"	n	file:
+i3ipc	i3ipc++/src/ipc.cpp	/^namespace i3ipc {$/;"	n	file:
+i3listener.cpp.i	build/src/Makefile	/^i3listener.cpp.i:$/;"	t
+i3listener.cpp.o	build/src/Makefile	/^i3listener.cpp.o:$/;"	t
+i3listener.cpp.s	build/src/Makefile	/^i3listener.cpp.s:$/;"	t
+i3listener.i	build/src/Makefile	/^i3listener.i: i3listener.cpp.i$/;"	t
+i3listener.o	build/src/Makefile	/^i3listener.o: i3listener.cpp.o$/;"	t
+i3listener.s	build/src/Makefile	/^i3listener.s: i3listener.cpp.s$/;"	t
+i3pager.cpp.i	build/src/Makefile	/^i3pager.cpp.i:$/;"	t
+i3pager.cpp.o	build/src/Makefile	/^i3pager.cpp.o:$/;"	t
+i3pager.cpp.s	build/src/Makefile	/^i3pager.cpp.s:$/;"	t
+i3pager.i	build/src/Makefile	/^i3pager.i: i3pager.cpp.i$/;"	t
+i3pager.o	build/src/Makefile	/^i3pager.o: i3pager.cpp.o$/;"	t
+i3pager.s	build/src/Makefile	/^i3pager.s: i3pager.cpp.s$/;"	t
+icon	src/workspace.h	/^    QString icon;$/;"	m	class:Workspace	typeref:typename:QString
+iconMap	src/i3pager.h	/^        iconMapType iconMap;$/;"	m	class:I3Pager::IconConfig	typeref:typename:iconMapType
+iconMapType	src/i3pager.h	/^        using iconMapType = std::unordered_map<std::string, std::string>;$/;"	t	class:I3Pager::IconConfig	typeref:typename:std::unordered_map<std::string,std::string>
+id	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  id; \/\/\/< The ID for this bar. Included in case you request multiple configurati/;"	m	struct:i3ipc::bar_config_t	typeref:typename:std::string
+id	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint64_t  id; \/\/\/< The internal ID (actually a C pointer value) of this container. Do not ma/;"	m	struct:i3ipc::container_t	typeref:typename:uint64_t
+id	src/workspace.h	/^    QString id;$/;"	m	class:Workspace	typeref:typename:QString
+index	src/workspace.h	/^    QString index;$/;"	m	class:Workspace	typeref:typename:QString
+info_arch	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_extensions_default	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_extensions_default	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_standard_default	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_standard_default =$/;"	v	typeref:typename:const char *
+info_language_standard_default	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_standard_default = "INFO" ":" "standard_default["$/;"	v	typeref:typename:const char *
+info_platform	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version_internal	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+info_version_internal	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+input_code	i3ipc++/include/i3ipc++/ipc.hpp	/^	int32_t  input_code; \/\/\/< If the binding was configured with bindcode, this will be the key /;"	m	struct:i3ipc::binding_t	typeref:typename:int32_t
+input_type	i3ipc++/include/i3ipc++/ipc.hpp	/^	InputType  input_type;$/;"	m	struct:i3ipc::binding_t	typeref:typename:InputType
+install	build/Makefile	/^install: preinstall$/;"	t
+install	build/i3ipc++/Makefile	/^install: preinstall$/;"	t
+install	build/src/Makefile	/^install: preinstall$/;"	t
+install/fast	build/Makefile	/^install\/fast: preinstall\/fast$/;"	t
+install/fast	build/i3ipc++/Makefile	/^install\/fast: preinstall\/fast$/;"	t
+install/fast	build/src/Makefile	/^install\/fast: preinstall\/fast$/;"	t
+install/local	build/Makefile	/^install\/local: preinstall$/;"	t
+install/local	build/i3ipc++/Makefile	/^install\/local: preinstall$/;"	t
+install/local	build/src/Makefile	/^install\/local: preinstall$/;"	t
+install/local/fast	build/Makefile	/^install\/local\/fast: preinstall\/fast$/;"	t
+install/local/fast	build/i3ipc++/Makefile	/^install\/local\/fast: preinstall\/fast$/;"	t
+install/local/fast	build/src/Makefile	/^install\/local\/fast: preinstall\/fast$/;"	t
+install/strip	build/Makefile	/^install\/strip: preinstall$/;"	t
+install/strip	build/i3ipc++/Makefile	/^install\/strip: preinstall$/;"	t
+install/strip	build/src/Makefile	/^install\/strip: preinstall$/;"	t
+install/strip/fast	build/Makefile	/^install\/strip\/fast: preinstall\/fast$/;"	t
+install/strip/fast	build/i3ipc++/Makefile	/^install\/strip\/fast: preinstall\/fast$/;"	t
+install/strip/fast	build/src/Makefile	/^install\/strip\/fast: preinstall\/fast$/;"	t
+instance	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  instance; \/\/\/X11 Window class instance (WM_CLASS instance)$/;"	m	struct:i3ipc::window_properties_t	typeref:typename:std::string
+invalid_header_error	i3ipc++/include/i3ipc++/ipc-util.hpp	/^class invalid_header_error : public ipc_error { using ipc_error::ipc_error; };$/;"	c	namespace:i3ipc
+invalid_reply_payload_error	i3ipc++/include/i3ipc++/ipc-util.hpp	/^class invalid_reply_payload_error : public ipc_error { using ipc_error::ipc_error; };$/;"	c	namespace:i3ipc
+ipc_error	i3ipc++/include/i3ipc++/ipc-util.hpp	/^class ipc_error : public std::runtime_error { using std::runtime_error::runtime_error; };$/;"	c	namespace:i3ipc
+layout	i3ipc++/include/i3ipc++/ipc.hpp	/^	ContainerLayout  layout; \/\/\/< A type of the container's layout$/;"	m	struct:i3ipc::container_t	typeref:typename:ContainerLayout
+layout_raw	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  layout_raw; \/\/\/< A "layout" field of TREE reply. NOT empty only if layout equal/;"	m	struct:i3ipc::container_t	typeref:typename:std::string
+linux	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define linux /;"	d
+linux	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define linux /;"	d
+list_install_components	build/Makefile	/^list_install_components:$/;"	t
+list_install_components	build/i3ipc++/Makefile	/^list_install_components:$/;"	t
+list_install_components	build/src/Makefile	/^list_install_components:$/;"	t
+list_install_components/fast	build/Makefile	/^list_install_components\/fast: list_install_components$/;"	t
+list_install_components/fast	build/i3ipc++/Makefile	/^list_install_components\/fast: list_install_components$/;"	t
+list_install_components/fast	build/src/Makefile	/^list_install_components\/fast: list_install_components$/;"	t
+loaded_config_file_name	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  loaded_config_file_name; \/\/\/< Path to current config of i3$/;"	m	struct:i3ipc::version_t	typeref:typename:std::string
+log	i3ipc++/include/i3ipc++/log.hpp	/^inline void  log(const T&  data, const bool  err=false) {$/;"	f	namespace:i3ipc	typeref:typename:void
+log	i3ipc++/include/i3ipc++/log.hpp	/^inline void  log(const auss_t&  data, const bool  err) {$/;"	f	namespace:i3ipc	typeref:typename:void
+m_event_socket	i3ipc++/include/i3ipc++/ipc.hpp	/^	int32_t  m_event_socket;$/;"	m	class:i3ipc::connection	typeref:typename:int32_t
+m_main_socket	i3ipc++/include/i3ipc++/ipc.hpp	/^	const int32_t  m_main_socket;$/;"	m	class:i3ipc::connection	typeref:typename:const int32_t
+m_socket_path	i3ipc++/include/i3ipc++/ipc.hpp	/^	const std::string  m_socket_path;$/;"	m	class:i3ipc::connection	typeref:typename:const std::string
+m_stream	i3ipc++/3rd/auss/include/auss.hpp	/^	std::stringstream  m_stream;$/;"	m	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream	typeref:typename:std::stringstream
+m_subscriptions	i3ipc++/include/i3ipc++/ipc.hpp	/^	int32_t  m_subscriptions;$/;"	m	class:i3ipc::connection	typeref:typename:int32_t
+magic	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	char magic[6]; \/\/\/< Magic string @see I3_IPC_MAGIC$/;"	m	struct:i3ipc::header_t	typeref:typename:char[6]
+main	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	i3ipc++/examples/bar-configs.cpp	/^int  main() {$/;"	f	typeref:typename:int
+main	i3ipc++/examples/events.cpp	/^int  main() {$/;"	f	typeref:typename:int
+main	i3ipc++/examples/workspaces.cpp	/^int  main() {$/;"	f	typeref:typename:int
+major	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  major; \/\/\/< Major version of i3$/;"	m	struct:i3ipc::version_t	typeref:typename:uint32_t
+metaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^const QMetaObject *I3ListenerThread::metaObject() const$/;"	f	class:I3ListenerThread	typeref:typename:const QMetaObject *
+metaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^const QMetaObject *I3Pager::metaObject() const$/;"	f	class:I3Pager	typeref:typename:const QMetaObject *
+metaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^const QMetaObject *Plugin::metaObject() const$/;"	f	class:Plugin	typeref:typename:const QMetaObject *
+minor	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  minor; \/\/\/< Minor version of i3$/;"	m	struct:i3ipc::version_t	typeref:typename:uint32_t
+mode	i3ipc++/include/i3ipc++/ipc.hpp	/^	BarMode  mode;$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:BarMode
+mode	src/i3pager.h	/^    QString mode;$/;"	m	class:I3Pager	typeref:typename:QString
+modeChanged	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^void I3ListenerThread::modeChanged(const QString & _t1)$/;"	f	class:I3ListenerThread	typeref:typename:void
+modeChanged	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^void I3Pager::modeChanged()$/;"	f	class:I3Pager	typeref:typename:void
+mode_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct mode_t {$/;"	s	namespace:i3ipc
+name	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  name; \/\/\/< Name of the output$/;"	m	struct:i3ipc::output_t	typeref:typename:std::string
+name	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  name; \/\/\/< Name of the workspace$/;"	m	struct:i3ipc::workspace_t	typeref:typename:std::string
+name	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  name; \/\/\/< The internal name of this container. For all containers which are pa/;"	m	struct:i3ipc::container_t	typeref:typename:std::string
+name	src/workspace.h	/^    QString name;$/;"	m	class:Workspace	typeref:typename:QString
+need_more_than_nothing	build/i3ipc++/i3ipc++_autogen/mocs_compilation.cpp	/^enum some_compilers { need_more_than_nothing };$/;"	e	enum:some_compilers	file:
+nodes	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::list< std::shared_ptr<container_t> >  nodes;$/;"	m	struct:i3ipc::container_t	typeref:typename:std::list<std::shared_ptr<container_t>>
+num	i3ipc++/include/i3ipc++/ipc.hpp	/^	int  num; \/\/\/< Index of the worksapce$/;"	m	struct:i3ipc::workspace_t	typeref:typename:int
+old	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::shared_ptr<workspace_t>  old; \/\/\/< Old (previous) workspace @note With some WindowEvent/;"	m	struct:i3ipc::workspace_event_t	typeref:typename:std::shared_ptr<workspace_t>
+operator <<	i3ipc++/3rd/auss/include/auss.hpp	/^	AutoStringStream&  operator<<(const T&  arg) {$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream	typeref:typename:AutoStringStream &
+operator <<	i3ipc++/3rd/auss/include/auss.hpp	/^	AutoStringStream&  operator<<(const bool arg) {$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream	typeref:typename:AutoStringStream &
+operator std::string	i3ipc++/3rd/auss/include/auss.hpp	/^	operator std::string() const {$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream
+orderByName	src/workspace.cpp	/^QList<Workspace> Workspace::orderByName(QList<Workspace> inputWorkspaces) {$/;"	f	class:Workspace	typeref:typename:QList<Workspace>
+orderByOutput	src/workspace.cpp	/^QList<Workspace> Workspace::orderByOutput(QList<Workspace> inputWorkspaces, QList<QString> outpu/;"	f	class:Workspace	typeref:typename:QList<Workspace>
+org.kde.I3Pager-plasmoids-metadata-json	build/Makefile	/^org.kde.I3Pager-plasmoids-metadata-json: cmake_check_build_system$/;"	t
+org.kde.I3Pager-plasmoids-metadata-json/fast	build/Makefile	/^org.kde.I3Pager-plasmoids-metadata-json\/fast:$/;"	t
+output	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  output; \/\/\/< An output of the workspace$/;"	m	struct:i3ipc::workspace_t	typeref:typename:std::string
+output	src/workspace.h	/^    QString output;$/;"	m	class:Workspace	typeref:typename:QString
+output_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct output_t {$/;"	s	namespace:i3ipc
+pango_markup	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool pango_markup; \/\/\/< Should pango markup be used for displaying this mode$/;"	m	struct:i3ipc::mode_t	typeref:typename:bool
+parse_bar_config_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<bar_config_t>  parse_bar_config_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<bar_config_t>	file:
+parse_binding_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<binding_t>  parse_binding_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<binding_t>	file:
+parse_container_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<container_t>  parse_container_from_json(const Json::Value&  o) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<container_t>	file:
+parse_mode_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<mode_t>  parse_mode_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<mode_t>	file:
+parse_output_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<output_t>  parse_output_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<output_t>	file:
+parse_rect_from_json	i3ipc++/src/ipc.cpp	/^inline rect_t  parse_rect_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:rect_t
+parse_window_props_from_json	i3ipc++/src/ipc.cpp	/^window_properties_t  parse_window_props_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:window_properties_t
+parse_workspace_from_json	i3ipc++/src/ipc.cpp	/^static std::shared_ptr<workspace_t>  parse_workspace_from_json(const Json::Value&  value) {$/;"	f	namespace:i3ipc	typeref:typename:std::shared_ptr<workspace_t>	file:
+patch	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  patch; \/\/\/< Patch number of i3$/;"	m	struct:i3ipc::version_t	typeref:typename:uint32_t
+payload	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	char*  payload;$/;"	m	struct:i3ipc::buf_t	typeref:typename:char *
+percent	i3ipc++/include/i3ipc++/ipc.hpp	/^	float  percent; \/\/\/< The percentage which this container takes in its parent. A value of < 0/;"	m	struct:i3ipc::container_t	typeref:typename:float
+plasmoidplugin	build/Makefile	/^plasmoidplugin: cmake_check_build_system$/;"	t
+plasmoidplugin	build/src/Makefile	/^plasmoidplugin: src\/CMakeFiles\/plasmoidplugin.dir\/rule$/;"	t
+plasmoidplugin/fast	build/Makefile	/^plasmoidplugin\/fast:$/;"	t
+plasmoidplugin/fast	build/src/Makefile	/^plasmoidplugin\/fast:$/;"	t
+plasmoidplugin_EXPORTS	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define plasmoidplugin_EXPORTS /;"	d
+plasmoidplugin_autogen	build/Makefile	/^plasmoidplugin_autogen: cmake_check_build_system$/;"	t
+plasmoidplugin_autogen	build/src/Makefile	/^plasmoidplugin_autogen: src\/CMakeFiles\/plasmoidplugin_autogen.dir\/rule$/;"	t
+plasmoidplugin_autogen/fast	build/Makefile	/^plasmoidplugin_autogen\/fast:$/;"	t
+plasmoidplugin_autogen/fast	build/src/Makefile	/^plasmoidplugin_autogen\/fast:$/;"	t
+plasmoidplugin_autogen/mocs_compilation.cpp.i	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.cpp.i:$/;"	t
+plasmoidplugin_autogen/mocs_compilation.cpp.o	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.cpp.o:$/;"	t
+plasmoidplugin_autogen/mocs_compilation.cpp.s	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.cpp.s:$/;"	t
+plasmoidplugin_autogen/mocs_compilation.i	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.i: plasmoidplugin_autogen\/mocs_compilation.cpp.i$/;"	t
+plasmoidplugin_autogen/mocs_compilation.o	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.o: plasmoidplugin_autogen\/mocs_compilation.cpp.o$/;"	t
+plasmoidplugin_autogen/mocs_compilation.s	build/src/Makefile	/^plasmoidplugin_autogen\/mocs_compilation.s: plasmoidplugin_autogen\/mocs_compilation.cpp.s$/;"	t
+plugin.cpp.i	build/src/Makefile	/^plugin.cpp.i:$/;"	t
+plugin.cpp.o	build/src/Makefile	/^plugin.cpp.o:$/;"	t
+plugin.cpp.s	build/src/Makefile	/^plugin.cpp.s:$/;"	t
+plugin.i	build/src/Makefile	/^plugin.i: plugin.cpp.i$/;"	t
+plugin.o	build/src/Makefile	/^plugin.o: plugin.cpp.o$/;"	t
+plugin.s	build/src/Makefile	/^plugin.s: plugin.cpp.s$/;"	t
+position	i3ipc++/include/i3ipc++/ipc.hpp	/^	Position  position;$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:Position
+preinstall	build/Makefile	/^preinstall: all$/;"	t
+preinstall	build/i3ipc++/Makefile	/^preinstall: all$/;"	t
+preinstall	build/src/Makefile	/^preinstall: all$/;"	t
+preinstall/fast	build/Makefile	/^preinstall\/fast:$/;"	t
+preinstall/fast	build/i3ipc++/Makefile	/^preinstall\/fast:$/;"	t
+preinstall/fast	build/src/Makefile	/^preinstall\/fast:$/;"	t
+primary	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  primary; \/\/\/< Is the output the primary output$/;"	m	struct:i3ipc::output_t	typeref:typename:bool
+qnxnto	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qt_meta_data_I3ListenerThread	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^static const uint qt_meta_data_I3ListenerThread[] = {$/;"	v	typeref:typename:const uint[]	file:
+qt_meta_data_I3Pager	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^static const uint qt_meta_data_I3Pager[] = {$/;"	v	typeref:typename:const uint[]	file:
+qt_meta_data_Plugin	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^static const uint qt_meta_data_Plugin[] = {$/;"	v	typeref:typename:const uint[]	file:
+qt_meta_data_Workspace	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^static const uint qt_meta_data_Workspace[] = {$/;"	v	typeref:typename:const uint[]	file:
+qt_meta_stringdata_I3ListenerThread	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^static const qt_meta_stringdata_I3ListenerThread_t qt_meta_stringdata_I3ListenerThread = {$/;"	v	typeref:typename:const qt_meta_stringdata_I3ListenerThread_t	file:
+qt_meta_stringdata_I3ListenerThread_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^struct qt_meta_stringdata_I3ListenerThread_t {$/;"	s	file:
+qt_meta_stringdata_I3Pager	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^static const qt_meta_stringdata_I3Pager_t qt_meta_stringdata_I3Pager = {$/;"	v	typeref:typename:const qt_meta_stringdata_I3Pager_t	file:
+qt_meta_stringdata_I3Pager_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^struct qt_meta_stringdata_I3Pager_t {$/;"	s	file:
+qt_meta_stringdata_Plugin	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^static const qt_meta_stringdata_Plugin_t qt_meta_stringdata_Plugin = {$/;"	v	typeref:typename:const qt_meta_stringdata_Plugin_t	file:
+qt_meta_stringdata_Plugin_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^struct qt_meta_stringdata_Plugin_t {$/;"	s	file:
+qt_meta_stringdata_Workspace	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^static const qt_meta_stringdata_Workspace_t qt_meta_stringdata_Workspace = {$/;"	v	typeref:typename:const qt_meta_stringdata_Workspace_t	file:
+qt_meta_stringdata_Workspace_t	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^struct qt_meta_stringdata_Workspace_t {$/;"	s	file:
+qt_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^int I3ListenerThread::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:I3ListenerThread	typeref:typename:int
+qt_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^int I3Pager::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:I3Pager	typeref:typename:int
+qt_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^int Plugin::qt_metacall(QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Plugin	typeref:typename:int
+qt_metacast	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^void *I3ListenerThread::qt_metacast(const char *_clname)$/;"	f	class:I3ListenerThread	typeref:typename:void *
+qt_metacast	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^void *I3Pager::qt_metacast(const char *_clname)$/;"	f	class:I3Pager	typeref:typename:void *
+qt_metacast	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^void *Plugin::qt_metacast(const char *_clname)$/;"	f	class:Plugin	typeref:typename:void *
+qt_pluginMetaData	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^static constexpr unsigned char qt_pluginMetaData[] = {$/;"	v	typeref:typename:QT_PLUGIN_METADATA_SECTION unsigned char[]	file:
+qt_static_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^void I3ListenerThread::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:I3ListenerThread	typeref:typename:void
+qt_static_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^void I3Pager::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:I3Pager	typeref:typename:void
+qt_static_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^void Plugin::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Plugin	typeref:typename:void
+qt_static_metacall	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^void Workspace::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)$/;"	f	class:Workspace	typeref:typename:void
+realloc_payload_to_header	i3ipc++/src/ipc-util.cpp	/^void  buf_t::realloc_payload_to_header() {$/;"	f	class:i3ipc::buf_t	typeref:typename:void
+rebuild_cache	build/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache	build/i3ipc++/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache	build/src/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	build/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+rebuild_cache/fast	build/i3ipc++/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+rebuild_cache/fast	build/src/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+rect	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  rect; \/\/\/< A size of the workspace$/;"	m	struct:i3ipc::workspace_t	typeref:typename:rect_t
+rect	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  rect; \/\/\/< Size of the output$/;"	m	struct:i3ipc::output_t	typeref:typename:rect_t
+rect	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  rect; \/\/\/< The absolute display coordinates for this container$/;"	m	struct:i3ipc::container_t	typeref:typename:rect_t
+rect_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct rect_t {$/;"	s	namespace:i3ipc
+registerTypes	src/plugin.cpp	/^void Plugin::registerTypes(const char* \/* uri *\/) {$/;"	f	class:Plugin	typeref:typename:void
+run	src/i3listener.cpp	/^void I3ListenerThread::run() {$/;"	f	class:I3ListenerThread	typeref:typename:void
+send_command	i3ipc++/src/ipc.cpp	/^bool  connection::send_command(const std::string&  command) const {$/;"	f	class:i3ipc::connection	typeref:typename:bool
+setCurrentScreen	src/i3pager.cpp	/^void I3Pager::setCurrentScreen(QString screen) {$/;"	f	class:I3Pager	typeref:typename:void
+signal_barconfig_update_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, const bar_config_t&>  signal_barconfig_update_event; \/\/\/< Barconfig updat/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,const bar_config_t &>
+signal_binding_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, const binding_t&>  signal_binding_event; \/\/\/< Binding event signal$/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,const binding_t &>
+signal_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, EventType, const std::shared_ptr<const buf_t>&>  signal_event; \/\/\/< i3 ev/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,EventType,const std::shared_ptr<const buf_t> &>
+signal_mode_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, const mode_t&>  signal_mode_event; \/\/\/< Output mode event signal$/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,const mode_t &>
+signal_output_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void>  signal_output_event; \/\/\/< Output event signal$/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void>
+signal_window_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, const window_event_t&>  signal_window_event; \/\/\/< Window event signal$/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,const window_event_t &>
+signal_workspace_event	i3ipc++/include/i3ipc++/ipc.hpp	/^	sigc::signal<void, const workspace_event_t&>  signal_workspace_event; \/\/\/< Workspace event s/;"	m	class:i3ipc::connection	typeref:typename:sigc::signal<void,const workspace_event_t &>
+size	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	uint32_t  size; \/\/\/< @brief Size of whole buffer$/;"	m	struct:i3ipc::buf_t	typeref:typename:uint32_t
+size	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	uint32_t size; \/\/\/< Size of payload$/;"	m	struct:i3ipc::header_t	typeref:typename:uint32_t
+some_compilers	build/i3ipc++/i3ipc++_autogen/mocs_compilation.cpp	/^enum some_compilers { need_more_than_nothing };$/;"	g	file:
+src/CMakeFiles/plasmoidplugin.dir/rule	build/src/Makefile	/^src\/CMakeFiles\/plasmoidplugin.dir\/rule:$/;"	t
+src/CMakeFiles/plasmoidplugin_autogen.dir/rule	build/src/Makefile	/^src\/CMakeFiles\/plasmoidplugin_autogen.dir\/rule:$/;"	t
+src/ipc-util.cpp.i	build/i3ipc++/Makefile	/^src\/ipc-util.cpp.i:$/;"	t
+src/ipc-util.cpp.o	build/i3ipc++/Makefile	/^src\/ipc-util.cpp.o:$/;"	t
+src/ipc-util.cpp.s	build/i3ipc++/Makefile	/^src\/ipc-util.cpp.s:$/;"	t
+src/ipc-util.i	build/i3ipc++/Makefile	/^src\/ipc-util.i: src\/ipc-util.cpp.i$/;"	t
+src/ipc-util.o	build/i3ipc++/Makefile	/^src\/ipc-util.o: src\/ipc-util.cpp.o$/;"	t
+src/ipc-util.s	build/i3ipc++/Makefile	/^src\/ipc-util.s: src\/ipc-util.cpp.s$/;"	t
+src/ipc.cpp.i	build/i3ipc++/Makefile	/^src\/ipc.cpp.i:$/;"	t
+src/ipc.cpp.o	build/i3ipc++/Makefile	/^src\/ipc.cpp.o:$/;"	t
+src/ipc.cpp.s	build/i3ipc++/Makefile	/^src\/ipc.cpp.s:$/;"	t
+src/ipc.i	build/i3ipc++/Makefile	/^src\/ipc.i: src\/ipc.cpp.i$/;"	t
+src/ipc.o	build/i3ipc++/Makefile	/^src\/ipc.o: src\/ipc.cpp.o$/;"	t
+src/ipc.s	build/i3ipc++/Makefile	/^src\/ipc.s: src\/ipc.cpp.s$/;"	t
+staticMetaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^QT_INIT_METAOBJECT const QMetaObject I3ListenerThread::staticMetaObject = { {$/;"	m	class:I3ListenerThread	typeref:typename:QT_INIT_METAOBJECT const QMetaObject
+staticMetaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^QT_INIT_METAOBJECT const QMetaObject I3Pager::staticMetaObject = { {$/;"	m	class:I3Pager	typeref:typename:QT_INIT_METAOBJECT const QMetaObject
+staticMetaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^QT_INIT_METAOBJECT const QMetaObject Plugin::staticMetaObject = { {$/;"	m	class:Plugin	typeref:typename:QT_INIT_METAOBJECT const QMetaObject
+staticMetaObject	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^QT_INIT_METAOBJECT const QMetaObject Workspace::staticMetaObject = { {$/;"	m	class:Workspace	typeref:typename:QT_INIT_METAOBJECT const QMetaObject
+status_command	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  status_command; \/\/\/< Command which will be run to generate a statusline. Each l/;"	m	struct:i3ipc::bar_config_t	typeref:typename:std::string
+stop	src/i3listener.cpp	/^void I3ListenerThread::stop() {$/;"	f	class:I3ListenerThread	typeref:typename:void
+stopping	src/i3listener.h	/^    bool stopping = false;$/;"	m	class:I3ListenerThread	typeref:typename:bool
+stringdata0	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^    char stringdata0[53];$/;"	m	struct:qt_meta_stringdata_I3ListenerThread_t	typeref:typename:char[53]	file:
+stringdata0	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^    char stringdata0[224];$/;"	m	struct:qt_meta_stringdata_I3Pager_t	typeref:typename:char[224]	file:
+stringdata0	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_plugin.cpp	/^    char stringdata0[7];$/;"	m	struct:qt_meta_stringdata_Plugin_t	typeref:typename:char[7]	file:
+stringdata0	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_workspace.cpp	/^    char stringdata0[59];$/;"	m	struct:qt_meta_stringdata_Workspace_t	typeref:typename:char[59]	file:
+subscribe	i3ipc++/src/ipc.cpp	/^bool  connection::subscribe(const int32_t  events) {$/;"	f	class:i3ipc::connection	typeref:typename:bool
+swrite	i3ipc++/src/ipc-util.cpp	/^ssize_t  swrite(int  fd, const uint8_t*  buf, size_t  count) {$/;"	f	namespace:i3ipc	typeref:typename:ssize_t
+symbol	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  symbol; \/\/\/< If this is a keyboard binding that was configured with bindsym, th/;"	m	struct:i3ipc::binding_t	typeref:typename:std::string
+test	build/Makefile	/^test:$/;"	t
+test	build/i3ipc++/Makefile	/^test:$/;"	t
+test	build/src/Makefile	/^test:$/;"	t
+test/fast	build/Makefile	/^test\/fast: test$/;"	t
+test/fast	build/i3ipc++/Makefile	/^test\/fast: test$/;"	t
+test/fast	build/src/Makefile	/^test\/fast: test$/;"	t
+test_pack	i3ipc++/test/test_ipc.hpp	/^	void test_pack() {$/;"	f	class:testsuite_ipc_util	typeref:typename:void
+testsuite_ipc_util	i3ipc++/test/test_ipc.hpp	/^class testsuite_ipc_util : public CxxTest::TestSuite {$/;"	c
+title	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  title; \/\/\/ X11 UTF8 window title (_NET_WM_NAME)$/;"	m	struct:i3ipc::window_properties_t	typeref:typename:std::string
+to_string	i3ipc++/3rd/auss/include/auss.hpp	/^	const std::string  to_string() const {$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream	typeref:typename:const std::string
+transient_for	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint64_t  transient_for; \/\/\/ Logical top-level window. Nonzero value is an X11 window ID of /;"	m	struct:i3ipc::window_properties_t	typeref:typename:uint64_t
+type	i3ipc++/include/i3ipc++/ipc-util.hpp	/^	uint32_t type; \/\/\/< Message type$/;"	m	struct:i3ipc::header_t	typeref:typename:uint32_t
+type	i3ipc++/include/i3ipc++/ipc.hpp	/^	WindowEventType  type;$/;"	m	struct:i3ipc::window_event_t	typeref:typename:WindowEventType
+type	i3ipc++/include/i3ipc++/ipc.hpp	/^	WorkspaceEventType  type;$/;"	m	struct:i3ipc::workspace_event_t	typeref:typename:WorkspaceEventType
+type	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  type; \/\/\/< Type of this container$/;"	m	struct:i3ipc::container_t	typeref:typename:std::string
+uninstall	build/Makefile	/^uninstall: cmake_check_build_system$/;"	t
+uninstall/fast	build/Makefile	/^uninstall\/fast:$/;"	t
+unix	build/i3ipc++/i3ipc++_autogen/moc_predefs.h	/^#define unix /;"	d
+unix	build/src/plasmoidplugin_autogen/moc_predefs.h	/^#define unix /;"	d
+urgent	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  urgent; \/\/\/< Is the workspace is urgent$/;"	m	struct:i3ipc::workspace_t	typeref:typename:bool
+urgent	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  urgent;$/;"	m	struct:i3ipc::container_t	typeref:typename:bool
+urgent	src/workspace.h	/^    bool urgent;$/;"	m	class:Workspace	typeref:typename:bool
+verbose	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  verbose; \/\/\/< Should the bar enable verbose output for debugging? Defaults to false.$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:bool
+version_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct version_t {$/;"	s	namespace:i3ipc
+visible	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  visible; \/\/\/< Is the workspace visible$/;"	m	struct:i3ipc::workspace_t	typeref:typename:bool
+visible	src/workspace.h	/^    bool visible;$/;"	m	class:Workspace	typeref:typename:bool
+volatile	build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+width	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  width; \/\/\/< Width of rectangle$/;"	m	struct:i3ipc::rect_t	typeref:typename:uint32_t
+width	src/i3pager.h	/^        int width;$/;"	m	struct:I3Pager::Size	typeref:typename:int
+window_event_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct window_event_t {$/;"	s	namespace:i3ipc
+window_properties	i3ipc++/include/i3ipc++/ipc.hpp	/^	window_properties_t  window_properties; \/\/\/ X11 window properties$/;"	m	struct:i3ipc::container_t	typeref:typename:window_properties_t
+window_properties_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct window_properties_t {$/;"	s	namespace:i3ipc
+window_rect	i3ipc++/include/i3ipc++/ipc.hpp	/^	rect_t  window_rect; \/\/\/< The coordinates of the actual client window inside its container. /;"	m	struct:i3ipc::container_t	typeref:typename:rect_t
+window_role	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  window_role; \/\/\/ X11 Window role (WM_WINDOW_ROLE)$/;"	m	struct:i3ipc::window_properties_t	typeref:typename:std::string
+workspace.cpp.i	build/src/Makefile	/^workspace.cpp.i:$/;"	t
+workspace.cpp.o	build/src/Makefile	/^workspace.cpp.o:$/;"	t
+workspace.cpp.s	build/src/Makefile	/^workspace.cpp.s:$/;"	t
+workspace.i	build/src/Makefile	/^workspace.i: workspace.cpp.i$/;"	t
+workspace.o	build/src/Makefile	/^workspace.o: workspace.cpp.o$/;"	t
+workspace.s	build/src/Makefile	/^workspace.s: workspace.cpp.s$/;"	t
+workspace_buttons	i3ipc++/include/i3ipc++/ipc.hpp	/^	bool  workspace_buttons; \/\/\/< Display workspace buttons or not? Defaults to true.$/;"	m	struct:i3ipc::bar_config_t	typeref:typename:bool
+workspace_event_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct workspace_event_t {$/;"	s	namespace:i3ipc
+workspace_t	i3ipc++/include/i3ipc++/ipc.hpp	/^struct workspace_t {$/;"	s	namespace:i3ipc
+workspacesChanged	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3listener.cpp	/^void I3ListenerThread::workspacesChanged()$/;"	f	class:I3ListenerThread	typeref:typename:void
+workspacesChanged	build/src/plasmoidplugin_autogen/EWIEGA46WW/moc_i3pager.cpp	/^void I3Pager::workspacesChanged()$/;"	f	class:I3Pager	typeref:typename:void
+writeall	i3ipc++/src/ipc-util.cpp	/^ssize_t  writeall(int  fd, const uint8_t*  buf, size_t  count) {$/;"	f	namespace:i3ipc	typeref:typename:ssize_t
+x	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  x; \/\/\/< Position on X axis$/;"	m	struct:i3ipc::rect_t	typeref:typename:uint32_t
+xclass	i3ipc++/include/i3ipc++/ipc.hpp	/^	std::string  xclass; \/\/\/ X11 Window class (WM_CLASS class)$/;"	m	struct:i3ipc::window_properties_t	typeref:typename:std::string
+xwindow_id	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint64_t  xwindow_id; \/\/\/< The X11 window ID of the actual client window inside this contain/;"	m	struct:i3ipc::container_t	typeref:typename:uint64_t
+y	i3ipc++/include/i3ipc++/ipc.hpp	/^	uint32_t  y; \/\/\/< Position on Y axis$/;"	m	struct:i3ipc::rect_t	typeref:typename:uint32_t
+~AutoStringStream	i3ipc++/3rd/auss/include/auss.hpp	/^	virtual ~AutoStringStream() {}$/;"	f	class:AUSS_OWN_NAMESPACE_NAME::AutoStringStream
+~I3Pager	src/i3pager.cpp	/^I3Pager::~I3Pager() {$/;"	f	class:I3Pager
+~buf_t	i3ipc++/src/ipc-util.cpp	/^buf_t::~buf_t() {$/;"	f	class:i3ipc::buf_t
+~connection	i3ipc++/src/ipc.cpp	/^connection::~connection() {$/;"	f	class:i3ipc::connection

@@ -1,0 +1,15 @@
+Application: Plasma (plasmashell), signal: Segmentation fault
+
+[KCrash Handler]
+#4  0x00007f1fb2fb48eb in I3Pager::IconConfig::getIcon(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const () from /usr/lib/x86_64-linux-gnu/qt5/qml/I3Pager/libplasmoidplugin.so
+#5  0x00007f1fb2fb4f8d in I3Pager::getIcon(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) () from /usr/lib/x86_64-linux-gnu/qt5/qml/I3Pager/libplasmoidplugin.so
+#6  0x00007f1fb2fb510d in I3Pager::getWorkspaces(bool, QString, QList<QString>) () from /usr/lib/x86_64-linux-gnu/qt5/qml/I3Pager/libplasmoidplugin.so
+#7  0x00007f1fb2fb0ecd in I3Pager::qt_static_metacall(QObject*, QMetaObject::Call, int, void**) () from /usr/lib/x86_64-linux-gnu/qt5/qml/I3Pager/libplasmoidplugin.so
+#8  0x00007f1fb2fb1240 in I3Pager::qt_metacall(QMetaObject::Call, int, void**) () from /usr/lib/x86_64-linux-gnu/qt5/qml/I3Pager/libplasmoidplugin.so
+#9  0x00007f204f4c6c93 in ?? () from /lib/x86_64-linux-gnu/libQt5Qml.so.5
+#10 0x00007f204f3a3521 in ?? () from /lib/x86_64-linux-gnu/libQt5Qml.so.5
+#11 0x00007f204f3a53e0 in QV4::QObjectMethod::callInternal(QV4::Value const*, QV4::Value const*, int) const () from /lib/x86_64-linux-gnu/libQt5Qml.so.5
+#12 0x00007f204f3d48aa in QV4::Runtime::CallPropertyLookup::call(QV4::ExecutionEngine*, QV4::Value const&, unsigned int, QV4::Value*, int) () from /lib/x86_64-linux-gnu/libQt5Qml.so.5
+#13 0x00007f1fb0135402 in ?? ()
+#14 0x0000000000000000 in ?? ()
+[Inferior 1 (process 289993) detached]
